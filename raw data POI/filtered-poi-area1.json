@@ -1,0 +1,5043 @@
+[
+  {
+    "type": "node",
+    "id": 21293721,
+    "lat": 45.4869866,
+    "lon": 9.1981376,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 21293722,
+    "lat": 45.4920006,
+    "lon": 9.2040327,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 21293723,
+    "lat": 45.4895796,
+    "lon": 9.2011629,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 21294864,
+    "lat": 45.4921658,
+    "lon": 9.2042165,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 21294865,
+    "lat": 45.4896332,
+    "lon": 9.2010493,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 21294866,
+    "lat": 45.4920673,
+    "lon": 9.2039006,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 21294867,
+    "lat": 45.4870457,
+    "lon": 9.1980304,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 21306381,
+    "lat": 45.484641,
+    "lon": 9.1953072,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 31333347,
+    "lat": 45.4922302,
+    "lon": 9.204084,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 53763220,
+    "lat": 45.4847095,
+    "lon": 9.1951986,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 90222470,
+    "lat": 45.4983445,
+    "lon": 9.2084257,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 91567648,
+    "lat": 45.4848999,
+    "lon": 9.1948574,
+    "tags": {
+      "name": "Gioia",
+      "name:it": "Gioia",
+      "name:ja": "ジョイア",
+      "operator": "ATM",
+      "railway": "station",
+      "start_date": "1971",
+      "station": "subway",
+      "subway": "yes",
+      "wikipedia": "it:Gioia (metropolitana di Milano)"
+    }
+  },
+  {
+    "type": "node",
+    "id": 246815072,
+    "lat": 45.494172,
+    "lon": 9.2064001,
+    "tags": {
+      "created_by": "JOSM",
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 250050215,
+    "lat": 45.4978384,
+    "lon": 9.2074116,
+    "tags": {
+      "fixme": "Controllore se realmente si possa passare al parcheggio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 250050262,
+    "lat": 45.4948834,
+    "lon": 9.206843,
+    "tags": {
+      "amenity": "pharmacy",
+      "dispensing": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 250050430,
+    "lat": 45.4972915,
+    "lon": 9.2083013,
+    "tags": {
+      "amenity": "telephone",
+      "created_by": "JOSM"
+    }
+  },
+  {
+    "type": "node",
+    "id": 250152856,
+    "lat": 45.4995186,
+    "lon": 9.2086465,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 250169284,
+    "lat": 45.4946933,
+    "lon": 9.2070716,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 257532323,
+    "lat": 45.4953185,
+    "lon": 9.2075698,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 257532325,
+    "lat": 45.4949994,
+    "lon": 9.207189,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 257532988,
+    "lat": 45.4934859,
+    "lon": 9.2058895,
+    "tags": {
+      "created_by": "JOSM"
+    }
+  },
+  {
+    "type": "node",
+    "id": 257533046,
+    "lat": 45.4926903,
+    "lon": 9.2045215,
+    "tags": {
+      "created_by": "JOSM"
+    }
+  },
+  {
+    "type": "node",
+    "id": 257533052,
+    "lat": 45.4924556,
+    "lon": 9.2043506,
+    "tags": {
+      "created_by": "JOSM"
+    }
+  },
+  {
+    "type": "node",
+    "id": 263049100,
+    "lat": 45.4851659,
+    "lon": 9.1944725,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 267210668,
+    "lat": 45.4907575,
+    "lon": 9.1987593,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 267210669,
+    "lat": 45.490836,
+    "lon": 9.1988189,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 267210670,
+    "lat": 45.4909016,
+    "lon": 9.1988687,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 267212118,
+    "lat": 45.4917136,
+    "lon": 9.2032437,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 267338265,
+    "lat": 45.4870383,
+    "lon": 9.1976675,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "43",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia",
+      "amenity": "pharmacy",
+      "dispensing": "yes",
+      "name": "Farmacia Humanitas",
+      "phone": "+39 02 6700449"
+    }
+  },
+  {
+    "type": "node",
+    "id": 269704553,
+    "lat": 45.4897433,
+    "lon": 9.2011821,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 280084355,
+    "lat": 45.4951853,
+    "lon": 9.2076909,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 280084357,
+    "lat": 45.4946481,
+    "lon": 9.2073404,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 281819160,
+    "lat": 45.4887909,
+    "lon": 9.1966345,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "20",
+      "addr:postcode": "20124",
+      "addr:street": "Via Francesco Algarotti",
+      "amenity": "restaurant",
+      "cuisine": "regional",
+      "email": "info@daberti.it",
+      "name": "Da Berti",
+      "phone": "+39 02 6694627",
+      "website": "http://www.daberti.it/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 281821736,
+    "lat": 45.4861962,
+    "lon": 9.195551,
+    "tags": {
+      "noexit": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 309007305,
+    "lat": 45.4896872,
+    "lon": 9.201294,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 309007306,
+    "lat": 45.4896996,
+    "lon": 9.2011243,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 309007307,
+    "lat": 45.4896375,
+    "lon": 9.2012347,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 309013544,
+    "lat": 45.4941342,
+    "lon": 9.2064977,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 309621132,
+    "lat": 45.4916113,
+    "lon": 9.2053368,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358878175,
+    "lat": 45.4897269,
+    "lon": 9.2016611,
+    "tags": {
+      "amenity": "pharmacy",
+      "dispensing": "yes",
+      "name": "Tonale"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358878177,
+    "lat": 45.4896359,
+    "lon": 9.2006662,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "73",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia",
+      "name": "Crowne Plaza Milan City",
+      "tourism": "hotel",
+      "website": "http://www.crowneplazamilan.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358878180,
+    "lat": 45.4891789,
+    "lon": 9.2003753,
+    "tags": {
+      "amenity": "bank",
+      "atm": "yes",
+      "name": "Carige"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358878181,
+    "lat": 45.4882431,
+    "lon": 9.1998057,
+    "tags": {
+      "amenity": "cinema",
+      "name": "Don Bosco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358879006,
+    "lat": 45.487636,
+    "lon": 9.1984183,
+    "tags": {
+      "amenity": "bank",
+      "atm": "yes",
+      "name": "Banca Popolare di Milano"
+    }
+  },
+  {
+    "type": "node",
+    "id": 358879007,
+    "lat": 45.487319,
+    "lon": 9.1979609,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:postcode": "20125",
+      "addr:street": "Via Melchiorre Gioia",
+      "amenity": "bank",
+      "atm": "yes",
+      "name": "Banca Popolare Commercio & Industria",
+      "operator": "UBI Banca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 442073771,
+    "lat": 45.49239,
+    "lon": 9.2040155,
+    "tags": {
+      "amenity": "bank",
+      "atm": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 454733599,
+    "lat": 45.493857,
+    "lon": 9.2057637,
+    "tags": {
+      "amenity": "ice_cream",
+      "name": "Prossima fermata",
+      "opening_hours": "Mo-Sa 12:00-23:00; Su 11:00-23:00; We off"
+    }
+  },
+  {
+    "type": "node",
+    "id": 733147364,
+    "lat": 45.4920878,
+    "lon": 9.2041296,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 733147366,
+    "lat": 45.4921543,
+    "lon": 9.2039983,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 787746975,
+    "lat": 45.4881884,
+    "lon": 9.1956966,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 787822253,
+    "lat": 45.4848209,
+    "lon": 9.1950852,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 959824625,
+    "lat": 45.4899338,
+    "lon": 9.2007207,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Sondrio M3",
+      "old_name": "Viale Sondrio - Viale Gioia",
+      "public_transport": "platform"
+    }
+  },
+  {
+    "type": "node",
+    "id": 967348559,
+    "lat": 45.4974051,
+    "lon": 9.204999,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "6",
+      "addr:postcode": "20125",
+      "addr:street": "Via Angelo Fava"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1178990307,
+    "lat": 45.4864388,
+    "lon": 9.1970855,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585491,
+    "lat": 45.4936155,
+    "lon": 9.2078818,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585497,
+    "lat": 45.4954015,
+    "lon": 9.2073354,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585498,
+    "lat": 45.4962811,
+    "lon": 9.2043592,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585499,
+    "lat": 45.4955491,
+    "lon": 9.2037761,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585508,
+    "lat": 45.4941436,
+    "lon": 9.2071828,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585517,
+    "lat": 45.4947887,
+    "lon": 9.2071584,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585524,
+    "lat": 45.4940716,
+    "lon": 9.2062807,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585531,
+    "lat": 45.4954656,
+    "lon": 9.2075118,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585533,
+    "lat": 45.4939584,
+    "lon": 9.2070974,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585540,
+    "lat": 45.4942462,
+    "lon": 9.2062492,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585542,
+    "lat": 45.4951786,
+    "lon": 9.2043552,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585547,
+    "lat": 45.4948427,
+    "lon": 9.2070413,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585552,
+    "lat": 45.4952687,
+    "lon": 9.2073898,
+    "tags": {
+      "bicycle": "yes",
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585553,
+    "lat": 45.4940205,
+    "lon": 9.2063704,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585573,
+    "lat": 45.496078,
+    "lon": 9.2053932,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585578,
+    "lat": 45.495283,
+    "lon": 9.2076615,
+    "tags": {
+      "bicycle": "yes",
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585604,
+    "lat": 45.4952275,
+    "lon": 9.2075012,
+    "tags": {
+      "bicycle": "yes",
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585613,
+    "lat": 45.4960489,
+    "lon": 9.2052793,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1270585659,
+    "lat": 45.4946265,
+    "lon": 9.2071833,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1279742023,
+    "lat": 45.4899527,
+    "lon": 9.2003243,
+    "tags": {
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Sondrio M3",
+      "public_transport": "platform",
+      "route_ref": "200"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1293986601,
+    "lat": 45.4887655,
+    "lon": 9.2002784,
+    "tags": {
+      "bench": "yes",
+      "highway": "bus_stop",
+      "name": "Sondrio M3",
+      "ref": "11911",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1328900892,
+    "lat": 45.4932426,
+    "lon": 9.2054449,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1328900927,
+    "lat": 45.4896982,
+    "lon": 9.201461,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432465576,
+    "lat": 45.4890391,
+    "lon": 9.2022309,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432465578,
+    "lat": 45.4890984,
+    "lon": 9.2022977,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432465580,
+    "lat": 45.4891541,
+    "lon": 9.2023592,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432465649,
+    "lat": 45.4907041,
+    "lon": 9.1987208,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432465656,
+    "lat": 45.4907839,
+    "lon": 9.200515,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432465679,
+    "lat": 45.4909622,
+    "lon": 9.1989147,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432465681,
+    "lat": 45.4909785,
+    "lon": 9.2001298,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432468566,
+    "lat": 45.4907179,
+    "lon": 9.2026239,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432468568,
+    "lat": 45.4907821,
+    "lon": 9.2024823,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1432468570,
+    "lat": 45.4908434,
+    "lon": 9.2023472,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1463804960,
+    "lat": 45.4870358,
+    "lon": 9.1999658,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "3",
+      "addr:postcode": "20125",
+      "addr:street": "Via Copernico",
+      "entrance": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1463921449,
+    "lat": 45.485834,
+    "lon": 9.1969713,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1464812320,
+    "lat": 45.4871922,
+    "lon": 9.2001565,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "5",
+      "addr:postcode": "20125",
+      "addr:street": "Via Copernico",
+      "entrance": "main"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1464812324,
+    "lat": 45.4872288,
+    "lon": 9.2001981,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "7",
+      "addr:postcode": "20125",
+      "addr:street": "Via Copernico",
+      "entrance": "main"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1464812326,
+    "lat": 45.4874752,
+    "lon": 9.2004983,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "9/a",
+      "addr:street": "Via Copernico"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1471896714,
+    "lat": 45.4839658,
+    "lon": 9.1975458,
+    "tags": {
+      "highway": "stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1484905504,
+    "lat": 45.4845808,
+    "lon": 9.1956006,
+    "tags": {
+      "name": "Gioia",
+      "railway": "subway_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1484905506,
+    "lat": 45.4849057,
+    "lon": 9.1950467,
+    "tags": {
+      "name": "Gioia",
+      "railway": "subway_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1486400615,
+    "lat": 45.4854778,
+    "lon": 9.1965956,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "24",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1509765766,
+    "lat": 45.4951416,
+    "lon": 9.2042331,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1509810450,
+    "lat": 45.4982698,
+    "lon": 9.2084141,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1509810480,
+    "lat": 45.4983577,
+    "lon": 9.208319,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1509810501,
+    "lat": 45.4984398,
+    "lon": 9.2084472,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1509823281,
+    "lat": 45.4949502,
+    "lon": 9.2093326,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1509823285,
+    "lat": 45.4950472,
+    "lon": 9.2094273,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1509823304,
+    "lat": 45.4958312,
+    "lon": 9.2101912,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1509823311,
+    "lat": 45.4959921,
+    "lon": 9.2103396,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1509823324,
+    "lat": 45.4965791,
+    "lon": 9.2107572,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1523199185,
+    "lat": 45.4898768,
+    "lon": 9.2011852,
+    "tags": {
+      "railway": "subway_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1523199205,
+    "lat": 45.4896454,
+    "lon": 9.2008419,
+    "tags": {
+      "railway": "subway_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961077,
+    "lat": 45.4848189,
+    "lon": 9.1957022,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Gioia M2",
+      "public_transport": "platform",
+      "ref": "11868",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961082,
+    "lat": 45.4853309,
+    "lon": 9.1959428,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name": "Gioia M2",
+      "ref": "11869",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961083,
+    "lat": 45.490301,
+    "lon": 9.2018123,
+    "tags": {
+      "bench": "no",
+      "covered": "no",
+      "fixme": "position approximative",
+      "highway": "bus_stop",
+      "name": "Sondrio M3",
+      "passenger_information_display": "no",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961122,
+    "lat": 45.4939033,
+    "lon": 9.2062948,
+    "tags": {
+      "bench": "yes",
+      "highway": "bus_stop",
+      "name": "Via Gioia - Via Cagliero",
+      "ref": "11940",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961128,
+    "lat": 45.4944836,
+    "lon": 9.20657,
+    "tags": {
+      "bench": "yes",
+      "disused:highway": "bus_stop",
+      "disused:name": "Via Gioia - Via Cagliero",
+      "disused:passenger_information_display": "yes",
+      "disused:ref": "12234",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961129,
+    "lat": 45.4864893,
+    "lon": 9.1976246,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name": "Via Gioia - Via Galvani",
+      "ref": "11875",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961130,
+    "lat": 45.4875799,
+    "lon": 9.1985794,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name": "Via Gioia - Via Galvani",
+      "ref": "11908",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961131,
+    "lat": 45.4972312,
+    "lon": 9.2082931,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Via Gioia - Via Tirano",
+      "ref": "12265",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961134,
+    "lat": 45.4966866,
+    "lon": 9.2078604,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Via Gioia - Via Tirano",
+      "ref": "12266",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961136,
+    "lat": 45.4912565,
+    "lon": 9.2031399,
+    "tags": {
+      "bench": "no",
+      "covered": "no",
+      "highway": "bus_stop",
+      "name": "Viale Lunigiana - Via Gioia",
+      "passenger_information_display": "no",
+      "ref": "11932",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1547961140,
+    "lat": 45.4927054,
+    "lon": 9.2045978,
+    "tags": {
+      "bench": "no",
+      "covered": "no",
+      "highway": "bus_stop",
+      "name": "Viale Lunigiana - Via Gioia",
+      "passenger_information_display": "no",
+      "ref": "11933",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1553548693,
+    "lat": 45.4968874,
+    "lon": 9.2080142,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1583651470,
+    "lat": 45.4845335,
+    "lon": 9.1956792,
+    "tags": {
+      "name": "Gioia",
+      "railway": "subway_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1601113665,
+    "lat": 45.4927161,
+    "lon": 9.2044201,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1601113668,
+    "lat": 45.4931878,
+    "lon": 9.2055429,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1601113686,
+    "lat": 45.4932796,
+    "lon": 9.2053786,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1601113689,
+    "lat": 45.4933308,
+    "lon": 9.2052871,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1601113701,
+    "lat": 45.4934122,
+    "lon": 9.2053098,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1601113727,
+    "lat": 45.4938781,
+    "lon": 9.206993,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1602066566,
+    "lat": 45.4971993,
+    "lon": 9.2088144,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1602066578,
+    "lat": 45.4973064,
+    "lon": 9.2091309,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1684675754,
+    "lat": 45.4855312,
+    "lon": 9.1974115,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "11",
+      "addr:postcode": "20124",
+      "addr:street": "Via Gerolamo Cardano"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1684675755,
+    "lat": 45.4843853,
+    "lon": 9.1974118,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "17",
+      "addr:street": "Via Emilio Cornalia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1684675756,
+    "lat": 45.4846596,
+    "lon": 9.1974631,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "19",
+      "addr:street": "Via Emilio Cornalia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1684675757,
+    "lat": 45.4852352,
+    "lon": 9.1963135,
+    "tags": {
+      "access": "no",
+      "addr:housenumber": "22",
+      "addr:street": "Via Melchiorre Gioia",
+      "barrier": "gate",
+      "foot": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1684675774,
+    "lat": 45.4853207,
+    "lon": 9.1963631,
+    "tags": {
+      "amenity": "vending_machine",
+      "vending": "parking_tickets"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1684675775,
+    "lat": 45.4858807,
+    "lon": 9.1970018,
+    "tags": {
+      "amenity": "vending_machine",
+      "vending": "parking_tickets"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1693183353,
+    "lat": 45.4840439,
+    "lon": 9.197325,
+    "tags": {
+      "addr:housenumber": "30",
+      "addr:street": "Via Giovanni Battista Pirelli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1693183355,
+    "lat": 45.4841294,
+    "lon": 9.1969064,
+    "tags": {
+      "addr:housenumber": "32",
+      "addr:street": "Via Giovanni Battista Pirelli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1693183366,
+    "lat": 45.4844521,
+    "lon": 9.1971049,
+    "tags": {
+      "barrier": "gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1693183367,
+    "lat": 45.4844782,
+    "lon": 9.1966284,
+    "tags": {
+      "amenity": "vending_machine",
+      "vending": "parking_tickets"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1693183368,
+    "lat": 45.4849818,
+    "lon": 9.1960553,
+    "tags": {
+      "amenity": "vending_machine",
+      "vending": "parking_tickets"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1697767133,
+    "lat": 45.4844683,
+    "lon": 9.1974546,
+    "tags": {
+      "amenity": "vending_machine",
+      "vending": "parking_tickets"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1697767134,
+    "lat": 45.4847296,
+    "lon": 9.1977932,
+    "tags": {
+      "amenity": "vending_machine",
+      "vending": "parking_tickets"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1699677895,
+    "lat": 45.4871556,
+    "lon": 9.2001029,
+    "tags": {
+      "barrier": "gate",
+      "bicycle": "yes",
+      "foot": "yes",
+      "horse": "yes",
+      "motorcar": "yes",
+      "motorcycle": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1699692604,
+    "lat": 45.4883906,
+    "lon": 9.19673,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "20",
+      "addr:postcode": "20124",
+      "addr:street": "Via Francesco Algarotti",
+      "barrier": "gate",
+      "bicycle": "yes",
+      "foot": "yes",
+      "motorcar": "yes",
+      "motorcycle": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1737802639,
+    "lat": 45.4899902,
+    "lon": 9.2005584,
+    "tags": {
+      "name": "Sondrio",
+      "operator": "ATM",
+      "railway": "station",
+      "wikipedia": "it:Sondrio (metropolitana di Milano)"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1769318210,
+    "lat": 45.4857281,
+    "lon": 9.194485,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "10",
+      "addr:street": "Via Filippo Sassetti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1769318220,
+    "lat": 45.4853916,
+    "lon": 9.1958661,
+    "tags": {
+      "addr:housenumber": "31",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1769318221,
+    "lat": 45.4855093,
+    "lon": 9.1960142,
+    "tags": {
+      "addr:housenumber": "33",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1769318224,
+    "lat": 45.4855517,
+    "lon": 9.1945338,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "8",
+      "addr:street": "Via Filippo Sassetti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830675218,
+    "lat": 45.4895293,
+    "lon": 9.2012623,
+    "tags": {
+      "bicycle": "yes",
+      "crossing": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830675219,
+    "lat": 45.489591,
+    "lon": 9.2013276,
+    "tags": {
+      "bicycle": "yes",
+      "crossing": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830675220,
+    "lat": 45.4896429,
+    "lon": 9.2013826,
+    "tags": {
+      "bicycle": "yes",
+      "crossing": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830675221,
+    "lat": 45.4896627,
+    "lon": 9.2009892,
+    "tags": {
+      "bicycle": "yes",
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830675222,
+    "lat": 45.4897282,
+    "lon": 9.2010663,
+    "tags": {
+      "bicycle": "yes",
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1830675223,
+    "lat": 45.4897741,
+    "lon": 9.2011204,
+    "tags": {
+      "bicycle": "yes",
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1831141855,
+    "lat": 45.4847021,
+    "lon": 9.1953852,
+    "tags": {
+      "bicycle": "yes",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1831141857,
+    "lat": 45.484769,
+    "lon": 9.1952723,
+    "tags": {
+      "bicycle": "yes",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1831141858,
+    "lat": 45.4848238,
+    "lon": 9.1952076,
+    "tags": {
+      "bicycle": "yes",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1831435739,
+    "lat": 45.4881281,
+    "lon": 9.195865,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1896831574,
+    "lat": 45.492521,
+    "lon": 9.2072144,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1901845024,
+    "lat": 45.4867171,
+    "lon": 9.1983187,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Melcaffe Acquarius tavola fredda"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1901845032,
+    "lat": 45.4867765,
+    "lon": 9.1982143,
+    "tags": {
+      "name": "Tabacchi",
+      "shop": "kiosk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1901845034,
+    "lat": 45.4866507,
+    "lon": 9.1984296,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "15",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani",
+      "amenity": "restaurant",
+      "cuisine": "tuscan",
+      "email": "ilcerchiomilano69@tiscali.it",
+      "name": "Trattoria Tuscana \"Il Cerchio\"",
+      "opening_hours": "Mo-Fr 12:00-15:00,19:00-23:00; Sa 19:00-23:00",
+      "phone": "+39 02 6700738",
+      "website": "http://www.ilcerchiomilano1969.it/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1937305786,
+    "lat": 45.4878656,
+    "lon": 9.1963036,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "route_ref": "bus_turistico City Sightseeing Milano route B",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1973121654,
+    "lat": 45.486218,
+    "lon": 9.1968895,
+    "tags": {
+      "amenity": "bicycle_rental",
+      "capacity": "36",
+      "operator": "BikeMi",
+      "ref": "104"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1988306992,
+    "lat": 45.4921028,
+    "lon": 9.204346,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1988307015,
+    "lat": 45.4922939,
+    "lon": 9.2039531,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2010527027,
+    "lat": 45.4858859,
+    "lon": 9.1970024,
+    "tags": {
+      "amenity": "clock",
+      "display": "analog",
+      "faces": "2",
+      "support": "wall_mounted",
+      "visibility": "area"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2017318698,
+    "lat": 45.4876609,
+    "lon": 9.1970167,
+    "tags": {
+      "bench": "no",
+      "covered": "no",
+      "highway": "bus_stop",
+      "name": "Via Gioia - Via Galvani",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2095618230,
+    "lat": 45.4840614,
+    "lon": 9.1973036,
+    "tags": {
+      "amenity": "embassy",
+      "country": "MK",
+      "diplomatic": "consulate",
+      "name": "Consolato Onorario Repubblica di Macedonia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2095618232,
+    "lat": 45.4840458,
+    "lon": 9.1973639,
+    "tags": {
+      "name": "Cubapoint",
+      "shop": "travel_agency"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2095618233,
+    "lat": 45.4841287,
+    "lon": 9.1969993,
+    "tags": {
+      "amenity": "bank",
+      "atm": "no",
+      "name": "Fineco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2095618235,
+    "lat": 45.484215,
+    "lon": 9.1965623,
+    "tags": {
+      "chemist": "perfume;cosmetics",
+      "fixme": "Position estimated",
+      "name": "Marionnaud",
+      "shop": "chemist"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2095618237,
+    "lat": 45.4840995,
+    "lon": 9.197162,
+    "tags": {
+      "amenity": "bank",
+      "atm": "yes",
+      "name": "Monte dei Paschi di Siena"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2095618238,
+    "lat": 45.4840331,
+    "lon": 9.1974414,
+    "tags": {
+      "name": "Sedra Milano Boutique",
+      "shop": "clothes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2095618242,
+    "lat": 45.4840597,
+    "lon": 9.1973251,
+    "tags": {
+      "amenity": "embassy",
+      "country": "CU",
+      "diplomatic": "consulate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2118422087,
+    "lat": 45.4972785,
+    "lon": 9.2078307,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "Verona_rack",
+      "capacity": "10"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2131348977,
+    "lat": 45.484554,
+    "lon": 9.195621,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "verona",
+      "capacity": "5",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2131348984,
+    "lat": 45.484667,
+    "lon": 9.195728,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "stands",
+      "capacity": "24",
+      "covered": "yes",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2139891798,
+    "lat": 45.4870644,
+    "lon": 9.1988139,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2147335238,
+    "lat": 45.4926894,
+    "lon": 9.2064658,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2147335240,
+    "lat": 45.4927508,
+    "lon": 9.2065707,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2147335257,
+    "lat": 45.4930827,
+    "lon": 9.2055117,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2154522150,
+    "lat": 45.4869021,
+    "lon": 9.1957701,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "1",
+      "addr:street": "Piazza Città di Lombardia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2154522156,
+    "lat": 45.4868295,
+    "lon": 9.1963431,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "2",
+      "addr:street": "Piazza Città di Lombardia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2154522161,
+    "lat": 45.4861701,
+    "lon": 9.1963193,
+    "tags": {
+      "addr:housenumber": "37",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2154522165,
+    "lat": 45.4862207,
+    "lon": 9.1966496,
+    "tags": {
+      "addr:housenumber": "39",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2154522419,
+    "lat": 45.4874916,
+    "lon": 9.1962756,
+    "tags": {
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2154522473,
+    "lat": 45.4876746,
+    "lon": 9.1955421,
+    "tags": {
+      "name": "Serpentino della Valmalenco",
+      "natural": "stone",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2157550553,
+    "lat": 45.4850931,
+    "lon": 9.195248,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "stands",
+      "capacity": "12",
+      "covered": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2168973241,
+    "lat": 45.4859552,
+    "lon": 9.1965759,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "wall_loops",
+      "capacity": "60",
+      "comment": "5 rastrelliere da 6+6 posti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2168973244,
+    "lat": 45.4870759,
+    "lon": 9.1961038,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "stands",
+      "capacity": "18",
+      "covered": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2168973249,
+    "lat": 45.4872339,
+    "lon": 9.1960287,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "wall_loops",
+      "capacity": "24",
+      "comment": "2 rastrelliere da 18+6 posti",
+      "covered": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2168973255,
+    "lat": 45.4873956,
+    "lon": 9.1967797,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "wall_loops",
+      "capacity": "6"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2168973257,
+    "lat": 45.4878243,
+    "lon": 9.1964149,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "wall_loops",
+      "capacity": "84",
+      "comment": "7 rastrelliere da 6+6 posti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2168973258,
+    "lat": 45.4973254,
+    "lon": 9.2079931,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "Verona_rack",
+      "capacity": "10"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2222467283,
+    "lat": 45.4866645,
+    "lon": 9.1979372,
+    "tags": {
+      "amenity": "bicycle_rental",
+      "capacity": "27",
+      "name": "Galvani M. Gioia",
+      "operator": "bikeMi",
+      "ref": "121"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2222481514,
+    "lat": 45.497156,
+    "lon": 9.2080866,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549088,
+    "lat": 45.4960869,
+    "lon": 9.2075908,
+    "tags": {
+      "amenity": "cafe",
+      "description": "Specialità rotoloni e pizzaiole",
+      "name": "Happy Bar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549091,
+    "lat": 45.4972317,
+    "lon": 9.2082258,
+    "tags": {
+      "bus": "yes",
+      "name": "Via Gioia - via Tirano",
+      "operator": "ATM",
+      "public_transport": "stop_position",
+      "survey_date": "2013-03-25"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549092,
+    "lat": 45.4953223,
+    "lon": 9.2072361,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian;chinese"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549093,
+    "lat": 45.4953657,
+    "lon": 9.2074451,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549096,
+    "lat": 45.4954246,
+    "lon": 9.2076215,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549103,
+    "lat": 45.4958962,
+    "lon": 9.2075567,
+    "tags": {
+      "note": "targa su muro \"VIA MELCHIORRE GIOIA\""
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549104,
+    "lat": 45.4959543,
+    "lon": 9.2076111,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing",
+      "traffic_calming": "table"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549106,
+    "lat": 45.4960601,
+    "lon": 9.207607,
+    "tags": {
+      "note": "targa su muro \"VIA MELCHIORRE GIOIA\""
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549113,
+    "lat": 45.4968712,
+    "lon": 9.2081365,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549116,
+    "lat": 45.4970665,
+    "lon": 9.2078833,
+    "tags": {
+      "entrance": "main"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549119,
+    "lat": 45.4971376,
+    "lon": 9.208204,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549129,
+    "lat": 45.4978209,
+    "lon": 9.2081981,
+    "tags": {
+      "note": "targa su muro \"VIA EMILIO DE MARCHI\""
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549130,
+    "lat": 45.4978303,
+    "lon": 9.2082181,
+    "tags": {
+      "note": "targa su muro \"VIA EMILIO DE MARCHI\""
+    }
+  },
+  {
+    "type": "node",
+    "id": 2225549131,
+    "lat": 45.497862,
+    "lon": 9.2081805,
+    "tags": {
+      "description": "Coltelleria, armeria, soft-air",
+      "shop": "hunting"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2288432572,
+    "lat": 45.4846764,
+    "lon": 9.1954761,
+    "tags": {
+      "bicycle": "yes",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2288454539,
+    "lat": 45.4851769,
+    "lon": 9.1955502,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2356572305,
+    "lat": 45.4979248,
+    "lon": 9.2082287,
+    "tags": {
+      "amenity": "bar",
+      "name": "Bar De Marchi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2356572308,
+    "lat": 45.4978564,
+    "lon": 9.2081352,
+    "tags": {
+      "name": "Coltelleria Armeria",
+      "shop": "hunting"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2356572311,
+    "lat": 45.4979805,
+    "lon": 9.2082468,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:street": "Via Emilio De Marchi",
+      "amenity": "ice_cream",
+      "name": "Gelateria Meloni"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2384609861,
+    "lat": 45.4891087,
+    "lon": 9.2008296,
+    "tags": {
+      "addr:housenumber": "60",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2393893527,
+    "lat": 45.486669,
+    "lon": 9.196843,
+    "tags": {
+      "amenity": "parking",
+      "parking": "underground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2393893529,
+    "lat": 45.48757,
+    "lon": 9.1968922,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2403719088,
+    "lat": 45.4864569,
+    "lon": 9.1993409,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2409311927,
+    "lat": 45.4982561,
+    "lon": 9.208239,
+    "tags": {
+      "amenity": "fast_food",
+      "cuisine": "chinese",
+      "name": "Ristorante De Marchi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2409311928,
+    "lat": 45.4944249,
+    "lon": 9.206325,
+    "tags": {
+      "amenity": "bank",
+      "operator": "UniCredit"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2409619676,
+    "lat": 45.4894794,
+    "lon": 9.200708,
+    "tags": {
+      "railway": "subway_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2410952556,
+    "lat": 45.4853889,
+    "lon": 9.1976552,
+    "tags": {
+      "amenity": "vending_machine",
+      "vending": "parking_tickets"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2410952565,
+    "lat": 45.4856622,
+    "lon": 9.1974061,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2412055508,
+    "lat": 45.4843563,
+    "lon": 9.1976194,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2417414852,
+    "lat": 45.4846099,
+    "lon": 9.1956321,
+    "tags": {
+      "amenity": "telephone"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2423078699,
+    "lat": 45.4924785,
+    "lon": 9.2033746,
+    "tags": {
+      "name": "Lunigiana - Via Melchiorre Gioia",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "15612",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2423105779,
+    "lat": 45.4922845,
+    "lon": 9.2036686,
+    "tags": {
+      "name": "Viale Lunigiana Via Gioia",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11925",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2531875176,
+    "lat": 45.4916474,
+    "lon": 9.2053929,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "10",
+      "addr:street": "Viale Lunigiana"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2531875177,
+    "lat": 45.4920643,
+    "lon": 9.2045709,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "22",
+      "addr:street": "Viale Lunigiana"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2531875178,
+    "lat": 45.4924563,
+    "lon": 9.203805,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "22",
+      "addr:street": "Viale Lunigiana"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2542087283,
+    "lat": 45.48727,
+    "lon": 9.1973311,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "21",
+      "addr:street": "Via Luigi Galvani",
+      "amenity": "embassy",
+      "country": "BA",
+      "diplomatic": "consulate",
+      "name": "Consolato della Bosnia-Erzegovina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2550235050,
+    "lat": 45.4915772,
+    "lon": 9.2054071,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2550278874,
+    "lat": 45.4871412,
+    "lon": 9.1981391,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2550278875,
+    "lat": 45.4869213,
+    "lon": 9.1982578,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2550278876,
+    "lat": 45.4869662,
+    "lon": 9.1979363,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2550278877,
+    "lat": 45.4870748,
+    "lon": 9.198243,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2550278878,
+    "lat": 45.4871161,
+    "lon": 9.197903,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2550278879,
+    "lat": 45.4869011,
+    "lon": 9.1980434,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2550279493,
+    "lat": 45.4873783,
+    "lon": 9.1969244,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2550279494,
+    "lat": 45.4877969,
+    "lon": 9.1968471,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2551339716,
+    "lat": 45.4892559,
+    "lon": 9.2015404,
+    "tags": {
+      "addr:housenumber": "19",
+      "addr:street": "Via Tonale"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309517,
+    "lat": 45.4879219,
+    "lon": 9.200288,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309518,
+    "lat": 45.4879937,
+    "lon": 9.2003708,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309519,
+    "lat": 45.4880459,
+    "lon": 9.2004312,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309520,
+    "lat": 45.4880995,
+    "lon": 9.2004932,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309521,
+    "lat": 45.4881577,
+    "lon": 9.2005604,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309523,
+    "lat": 45.4882039,
+    "lon": 9.2006138,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309524,
+    "lat": 45.4882906,
+    "lon": 9.200714,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309582,
+    "lat": 45.4888397,
+    "lon": 9.2013195,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309584,
+    "lat": 45.4888847,
+    "lon": 9.2013712,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309586,
+    "lat": 45.4889336,
+    "lon": 9.2014272,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309588,
+    "lat": 45.4889853,
+    "lon": 9.2014865,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2555309589,
+    "lat": 45.4890369,
+    "lon": 9.2015457,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2559117417,
+    "lat": 45.4909645,
+    "lon": 9.2023905,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2559117681,
+    "lat": 45.4907455,
+    "lon": 9.2027985,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2616331674,
+    "lat": 45.4947589,
+    "lon": 9.2053731,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Via Gioia - Via Cagliero",
+      "ref": "11942",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2616331679,
+    "lat": 45.4943079,
+    "lon": 9.205974,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Via Gioia - Via Cagliero",
+      "ref": "11941",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2616339081,
+    "lat": 45.491822,
+    "lon": 9.2049951,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name": "Viale Lunigiana",
+      "ref": "11939",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2617575259,
+    "lat": 45.4995568,
+    "lon": 9.2091391,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name": "Via Emilio De Marchi - Via San Rafael delle Ande",
+      "ref": "12268",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2624837106,
+    "lat": 45.49954,
+    "lon": 9.2087756,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2715483894,
+    "lat": 45.4966178,
+    "lon": 9.2101135,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Azienda Sanitaria Locale - Distretto n. 3 - Consultorio Pediatrico"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2762341491,
+    "lat": 45.4991124,
+    "lon": 9.2086485,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "covered": "no",
+      "highway": "bus_stop",
+      "name": "Via Emilio De Marchi Via San Rafael delle Ande",
+      "public_transport": "platform",
+      "ref": "15847",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2845994175,
+    "lat": 45.4934768,
+    "lon": 9.2073251,
+    "tags": {
+      "name": "Ponte Seveso",
+      "name:lmo": "Pont Seves",
+      "place": "suburb"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2909186404,
+    "lat": 45.4920065,
+    "lon": 9.2038319,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2909186406,
+    "lat": 45.4919336,
+    "lon": 9.2041654,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2909186407,
+    "lat": 45.4921272,
+    "lon": 9.2037822,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2909186408,
+    "lat": 45.4916659,
+    "lon": 9.2052268,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2909186409,
+    "lat": 45.4914892,
+    "lon": 9.205043,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2909186410,
+    "lat": 45.4919407,
+    "lon": 9.2039622,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2915633267,
+    "lat": 45.486956,
+    "lon": 9.1964938,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "stands",
+      "capacity": "30",
+      "covered": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2915852972,
+    "lat": 45.4886085,
+    "lon": 9.1964849,
+    "tags": {
+      "amenity": "parking"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147151904,
+    "lat": 45.4860138,
+    "lon": 9.195309,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "8",
+      "addr:street": "Via Alessandro Paoli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147153619,
+    "lat": 45.4854562,
+    "lon": 9.1952026,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "3",
+      "addr:street": "Via Alessandro Paoli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147153620,
+    "lat": 45.486231,
+    "lon": 9.1953892,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "3",
+      "addr:street": "Via Ettore Bellani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147153621,
+    "lat": 45.4856373,
+    "lon": 9.1954179,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "4",
+      "addr:street": "Via Alessandro Paoli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154332,
+    "lat": 45.4852342,
+    "lon": 9.1952659,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "1",
+      "addr:street": "Via Alessandro Paoli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154339,
+    "lat": 45.485323,
+    "lon": 9.1954939,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "2",
+      "addr:street": "Via Alessandro Paoli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154340,
+    "lat": 45.4860671,
+    "lon": 9.1948936,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "2",
+      "addr:street": "Via Ettore Bellani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154532,
+    "lat": 45.4858167,
+    "lon": 9.1953622,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "6",
+      "addr:street": "Via Alessandro Paoli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154546,
+    "lat": 45.4855929,
+    "lon": 9.1948429,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154547,
+    "lat": 45.4857741,
+    "lon": 9.1950988,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154549,
+    "lat": 45.4857971,
+    "lon": 9.1948455,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154551,
+    "lat": 45.4858256,
+    "lon": 9.1948961,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154552,
+    "lat": 45.4858415,
+    "lon": 9.1949873,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154553,
+    "lat": 45.4858575,
+    "lon": 9.1950886,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154640,
+    "lat": 45.4855503,
+    "lon": 9.1950912,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154641,
+    "lat": 45.4855698,
+    "lon": 9.194962,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154769,
+    "lat": 45.4853461,
+    "lon": 9.1949747,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147154770,
+    "lat": 45.4856569,
+    "lon": 9.195119,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147224066,
+    "lat": 45.4871589,
+    "lon": 9.1967597,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "3",
+      "addr:postcode": "20124",
+      "addr:street": "Via Francesco Algarotti",
+      "name": "Carrefour Express",
+      "opening_hours": "Mo-Fr 07:30-21:00; Sa 09:00-21:00; Su 09:00-13:00,16:30-20:30",
+      "operator": "Diperdi srl a s.u.",
+      "phone": "+39 02 67077260",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147224067,
+    "lat": 45.4862814,
+    "lon": 9.196275,
+    "tags": {
+      "amenity": "cafe",
+      "name": "C House"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147224068,
+    "lat": 45.4857036,
+    "lon": 9.1960529,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "37",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia",
+      "amenity": "doctors",
+      "name": "Centro Medico Lombardo",
+      "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-13:00",
+      "website": "http://www.centromedicolombardo.it/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147224069,
+    "lat": 45.485854,
+    "lon": 9.1963227,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Il Santa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147224072,
+    "lat": 45.4864141,
+    "lon": 9.1966435,
+    "tags": {
+      "name": "Milano Bakery",
+      "shop": "bakery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147224073,
+    "lat": 45.4872862,
+    "lon": 9.1962149,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "27",
+      "addr:street": "Via Luigi Galvani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147224074,
+    "lat": 45.4877399,
+    "lon": 9.196022,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Panino Milano"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147226575,
+    "lat": 45.4873008,
+    "lon": 9.1966502,
+    "tags": {
+      "amenity": "ice_cream",
+      "name": "Gelateria Artigianale"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147226576,
+    "lat": 45.4863555,
+    "lon": 9.1948481,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "2",
+      "addr:postcode": "20124",
+      "addr:street": "Viale Francesco Restelli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147226577,
+    "lat": 45.4872829,
+    "lon": 9.1955341,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "6",
+      "addr:postcode": "20124",
+      "addr:street": "Viale Francesco Restelli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147227478,
+    "lat": 45.4873334,
+    "lon": 9.1958412,
+    "tags": {
+      "amenity": "cafe",
+      "name": "Al Bar"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147227479,
+    "lat": 45.4860424,
+    "lon": 9.1959558,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "1",
+      "addr:street": "Piazza Città di Lombardia",
+      "amenity": "theatre",
+      "name": "Auditorium Giovanni Testori"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147227480,
+    "lat": 45.4877151,
+    "lon": 9.1964112,
+    "tags": {
+      "amenity": "cafe",
+      "name": "Caffè Ottolina"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147227481,
+    "lat": 45.4864615,
+    "lon": 9.1957816,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Donizetti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3147227482,
+    "lat": 45.4875554,
+    "lon": 9.1958281,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Suomy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3176867008,
+    "lat": 45.4922136,
+    "lon": 9.2042702,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3176867009,
+    "lat": 45.4922839,
+    "lon": 9.2041441,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3224116745,
+    "lat": 45.4848662,
+    "lon": 9.1956001,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "name": "Gioia M2",
+      "public_transport": "stop_position",
+      "ref": "11868",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3226855671,
+    "lat": 45.4866044,
+    "lon": 9.1966692,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "1",
+      "addr:postcode": "20124",
+      "addr:street": "Via Francesco Algarotti",
+      "amenity": "post_office",
+      "collection_times": "10:30",
+      "name": "Poste Italiane"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307957906,
+    "lat": 45.4860902,
+    "lon": 9.1945731,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307961670,
+    "lat": 45.4871419,
+    "lon": 9.1949117,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307961672,
+    "lat": 45.4873039,
+    "lon": 9.1950365,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307961855,
+    "lat": 45.4860676,
+    "lon": 9.1945802,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307961856,
+    "lat": 45.4862403,
+    "lon": 9.1943194,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307967289,
+    "lat": 45.4868946,
+    "lon": 9.1950957,
+    "tags": {
+      "name": "Granito Verde dello Spluga",
+      "natural": "stone",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307969503,
+    "lat": 45.4869898,
+    "lon": 9.1950413,
+    "tags": {
+      "name": "Dorato della Valmalenco",
+      "natural": "stone",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307969643,
+    "lat": 45.4880805,
+    "lon": 9.1956375,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307971572,
+    "lat": 45.4864174,
+    "lon": 9.1947375,
+    "tags": {
+      "name": "Tonalite dell'Adamello",
+      "natural": "stone",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307972864,
+    "lat": 45.4872894,
+    "lon": 9.1953058,
+    "tags": {
+      "name": "Granito di San Fedelino",
+      "natural": "stone",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3307973070,
+    "lat": 45.4868314,
+    "lon": 9.1950742,
+    "tags": {
+      "name": "Ceppo di Poltragno",
+      "natural": "stone",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3311605615,
+    "lat": 45.4889902,
+    "lon": 9.1978919,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "55",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia",
+      "email": "info@eudata.biz",
+      "fax": "+390245495099",
+      "name": "Eudata",
+      "note": "Eudata",
+      "office": "it",
+      "phone": "+39 02 45495098",
+      "website": "http://www.eudata.biz"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3334331791,
+    "lat": 45.4886489,
+    "lon": 9.1996112,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia",
+      "amenity": "bank",
+      "name": "Banca Carige",
+      "operator": "Carige"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3343029990,
+    "lat": 45.4904292,
+    "lon": 9.2032634,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "17",
+      "addr:postcode": "20125",
+      "addr:street": "Via Giovanni Schiaparelli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3348364710,
+    "lat": 45.4879417,
+    "lon": 9.1961228,
+    "tags": {
+      "bench": "no",
+      "covered": "no",
+      "fixme": "Position estimated; anche fermata di lnea 728 (solo corse per Centrale)",
+      "highway": "bus_stop",
+      "name": "Via Gioia - Via Galvani",
+      "passenger_information_display": "no",
+      "ref": "11904",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3394353676,
+    "lat": 45.4900733,
+    "lon": 9.201292,
+    "tags": {
+      "addr:housenumber": "77",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia",
+      "contact:phone": "+39 02 43128375",
+      "fixme": "Position estimated",
+      "name": "Pastificio Anteri",
+      "operator": "Andreoli srl",
+      "ref:vatin": "IT03346020963",
+      "shop": "bakery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3396619635,
+    "lat": 45.4941529,
+    "lon": 9.2061316,
+    "tags": {
+      "amenity": "cafe",
+      "tobacco": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3396619636,
+    "lat": 45.4941394,
+    "lon": 9.2061275,
+    "tags": {
+      "amenity": "post_box"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3396619637,
+    "lat": 45.4956379,
+    "lon": 9.207578,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "covered": "no",
+      "highway": "bus_stop",
+      "note:it": "sulla fermata non è attualmente (inzio marzo 2015) il nome, che forse è \"Via Gioia - Via Cagliero\" e il numero ref, quello della precedente fermata più a Sud era 12234",
+      "passenger_information_display": "no",
+      "public_transport": "stop_position",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3396619638,
+    "lat": 45.4956414,
+    "lon": 9.2075164,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "covered": "no",
+      "highway": "bus_stop",
+      "note:it": "sulla fermata non è attualmente (inzio marzo 2015) il nome, che forse è \"Via Gioia - Via Cagliero\" e il numero ref, quello della precedente fermata più a Sud era 12234",
+      "passenger_information_display": "no",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3456342115,
+    "lat": 45.4841281,
+    "lon": 9.1965898,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3476681010,
+    "lat": 45.4955131,
+    "lon": 9.2037475,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3476681011,
+    "lat": 45.494218,
+    "lon": 9.2063065,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3479398732,
+    "lat": 45.4846066,
+    "lon": 9.1953724,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521819307,
+    "lat": 45.48746,
+    "lon": 9.1955633,
+    "tags": {
+      "name": "Serizzo della Val Masino",
+      "natural": "stone",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521819396,
+    "lat": 45.4878658,
+    "lon": 9.1960582,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "27",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani",
+      "email": "burtonstoremilano@burton.it",
+      "name": "Burton Store",
+      "opening_hours": "Mo 15:00-19:00; Tu-Sa 10:30-14:00,15:00-19:00",
+      "phone": "+39 02 66703686",
+      "shop": "outdoor",
+      "website": "http://www.burtonstoremilano.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521820095,
+    "lat": 45.487983,
+    "lon": 9.1957665,
+    "tags": {
+      "name": "Marmo di Botticino",
+      "natural": "stone",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521852705,
+    "lat": 45.4859262,
+    "lon": 9.1965321,
+    "tags": {
+      "amenity": "charging_station"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521852706,
+    "lat": 45.4866004,
+    "lon": 9.1947324,
+    "tags": {
+      "natural": "stone",
+      "source": "survey",
+      "tourism": "artwork"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521852707,
+    "lat": 45.4882547,
+    "lon": 9.1963031,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521852708,
+    "lat": 45.4882589,
+    "lon": 9.1961757,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521852709,
+    "lat": 45.488357,
+    "lon": 9.1964167,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521852710,
+    "lat": 45.4884168,
+    "lon": 9.1964512,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521852711,
+    "lat": 45.488421,
+    "lon": 9.196218,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521852712,
+    "lat": 45.4884708,
+    "lon": 9.1962788,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3521852713,
+    "lat": 45.4884779,
+    "lon": 9.1964938,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3532956018,
+    "lat": 45.4881184,
+    "lon": 9.2012132,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "9",
+      "addr:street": "Via Copernico"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3539682414,
+    "lat": 45.4847444,
+    "lon": 9.1952418,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3539682595,
+    "lat": 45.4846824,
+    "lon": 9.1953601,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3539682596,
+    "lat": 45.4847561,
+    "lon": 9.1951168,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3578938338,
+    "lat": 45.4981751,
+    "lon": 9.2085203,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "4",
+      "addr:postcode": "20125",
+      "addr:street": "Via Emilio De Marchi",
+      "source": "local knowledge"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3578951316,
+    "lat": 45.498239,
+    "lon": 9.2085822,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "4",
+      "addr:postcode": "20125",
+      "addr:street": "Via Emilio De Marchi",
+      "amenity": "bank",
+      "atm": "yes",
+      "name": "BPER Banca",
+      "operator": "Banca Popolare dell'Emilia Romagna",
+      "source": "local knowledge"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3578954006,
+    "lat": 45.4975736,
+    "lon": 9.2086831,
+    "tags": {
+      "amenity": "cafe",
+      "name": "Café Martesana "
+    }
+  },
+  {
+    "type": "node",
+    "id": 3578960497,
+    "lat": 45.4982983,
+    "lon": 9.2088509,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "4",
+      "addr:postcode": "20125",
+      "addr:street": "Via Emilio De Marchi",
+      "name": "B&B my sweet home",
+      "source": "local knowledge",
+      "tourism": "guest_house",
+      "url": "http://www.facebook.com/BBmysweetMilan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3615150245,
+    "lat": 45.4869425,
+    "lon": 9.1987134,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "18",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani",
+      "amenity": "fuel",
+      "brand": "Esso",
+      "fuel:GTL_diesel": "yes",
+      "fuel:diesel": "yes",
+      "fuel:octane_95": "yes",
+      "name": "Esso",
+      "operator": "Zucchi Antonio",
+      "ref:mise": "4855"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3731478156,
+    "lat": 45.4959462,
+    "lon": 9.2076425,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758883028,
+    "lat": 45.488532,
+    "lon": 9.1962042,
+    "tags": {
+      "amenity": "bench",
+      "backrest": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758902007,
+    "lat": 45.4860342,
+    "lon": 9.1978191,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "3",
+      "addr:postcode": "20124",
+      "addr:street": "Via Alfredo Campanini"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758905922,
+    "lat": 45.487374,
+    "lon": 9.1971057,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "21",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani",
+      "amenity": "cafe",
+      "name": "Bar Golf"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758905923,
+    "lat": 45.4873534,
+    "lon": 9.1977377,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "24",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani",
+      "name": "Libreria Mursia",
+      "shop": "books"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758905925,
+    "lat": 45.4859076,
+    "lon": 9.1976553,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "1",
+      "addr:postcode": "20124",
+      "addr:street": "Via Alfredo Campanini"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758905926,
+    "lat": 45.485756,
+    "lon": 9.1972458,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "10",
+      "addr:postcode": "20124",
+      "addr:street": "Via Gerolamo Cardano"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758912401,
+    "lat": 45.4876447,
+    "lon": 9.1967664,
+    "tags": {
+      "amenity": "bicycle_rental",
+      "name": "Galvani Restelli",
+      "operator": "BikeMi",
+      "ref": "199"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758912405,
+    "lat": 45.4880325,
+    "lon": 9.1968473,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "18",
+      "addr:postcode": "20124",
+      "addr:street": "Via Francesco Algarotti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758912406,
+    "lat": 45.4867446,
+    "lon": 9.1989627,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "18",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758912407,
+    "lat": 45.4871889,
+    "lon": 9.1975323,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "19",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758912409,
+    "lat": 45.4873432,
+    "lon": 9.1972411,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "21",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758912410,
+    "lat": 45.4875878,
+    "lon": 9.1972818,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "26",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758912411,
+    "lat": 45.4859633,
+    "lon": 9.19717,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "26",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758912414,
+    "lat": 45.4869238,
+    "lon": 9.1976101,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "43",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758912419,
+    "lat": 45.4863581,
+    "lon": 9.1981887,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "7",
+      "addr:postcode": "20124",
+      "addr:street": "Via Alfredo Campanini",
+      "email": "cspmilano@uil.it",
+      "name": "UIL",
+      "office": "labor_union",
+      "phone": "+39 02 671101",
+      "website": "http://www.uilmilanolombardia.it/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758916102,
+    "lat": 45.4865988,
+    "lon": 9.1992181,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "16",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758916107,
+    "lat": 45.487336,
+    "lon": 9.1967958,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "3",
+      "addr:postcode": "20124",
+      "addr:street": "Via Francesco Algarotti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758916109,
+    "lat": 45.4865545,
+    "lon": 9.1978709,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "32",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758916111,
+    "lat": 45.4866235,
+    "lon": 9.1972468,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "41",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758916379,
+    "lat": 45.4871485,
+    "lon": 9.1976034,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "19",
+      "addr:postcode": "20124",
+      "addr:street": "Via Luigi Galvani",
+      "name": "Fumagalli Fiori e Piante",
+      "shop": "florist"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758916396,
+    "lat": 45.4868021,
+    "lon": 9.1970883,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "2",
+      "addr:postcode": "20124",
+      "addr:street": "Via Francesco Algarotti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758916400,
+    "lat": 45.4862402,
+    "lon": 9.1975115,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "28",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758916401,
+    "lat": 45.4869886,
+    "lon": 9.1970591,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "4",
+      "addr:postcode": "20124",
+      "addr:street": "Via Francesco Algarotti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758916402,
+    "lat": 45.486728,
+    "lon": 9.1973728,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "41/A",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758921994,
+    "lat": 45.4869615,
+    "lon": 9.1990952,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758921996,
+    "lat": 45.4869819,
+    "lon": 9.1969059,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758921997,
+    "lat": 45.4870189,
+    "lon": 9.1991855,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758927451,
+    "lat": 45.4858002,
+    "lon": 9.1969392,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758930003,
+    "lat": 45.4855013,
+    "lon": 9.1975282,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931657,
+    "lat": 45.4856232,
+    "lon": 9.1974538,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931765,
+    "lat": 45.4865673,
+    "lon": 9.1968915,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931772,
+    "lat": 45.4866294,
+    "lon": 9.1985514,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931774,
+    "lat": 45.4866476,
+    "lon": 9.1985516,
+    "tags": {
+      "amenity": "clock"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931785,
+    "lat": 45.4868439,
+    "lon": 9.1980964,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931789,
+    "lat": 45.4869047,
+    "lon": 9.1968748,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931865,
+    "lat": 45.4865314,
+    "lon": 9.1972014,
+    "tags": {
+      "amenity": "clock"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931871,
+    "lat": 45.4869886,
+    "lon": 9.197844,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931875,
+    "lat": 45.4871234,
+    "lon": 9.1995089,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931880,
+    "lat": 45.4874676,
+    "lon": 9.1970975,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931884,
+    "lat": 45.4877391,
+    "lon": 9.1978013,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931886,
+    "lat": 45.4878182,
+    "lon": 9.1978874,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931887,
+    "lat": 45.4878671,
+    "lon": 9.1979305,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931888,
+    "lat": 45.4878715,
+    "lon": 9.1967144,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758931891,
+    "lat": 45.488241,
+    "lon": 9.1969314,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932881,
+    "lat": 45.4877362,
+    "lon": 9.1974607,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932884,
+    "lat": 45.487893,
+    "lon": 9.1967304,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932885,
+    "lat": 45.4879016,
+    "lon": 9.1975735,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932886,
+    "lat": 45.487949,
+    "lon": 9.1976269,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932887,
+    "lat": 45.4879534,
+    "lon": 9.1972802,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932888,
+    "lat": 45.488044,
+    "lon": 9.1971509,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932889,
+    "lat": 45.4881101,
+    "lon": 9.197036,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932890,
+    "lat": 45.4881446,
+    "lon": 9.196675,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932891,
+    "lat": 45.4882424,
+    "lon": 9.1966524,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932894,
+    "lat": 45.4885876,
+    "lon": 9.1971284,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932957,
+    "lat": 45.4875118,
+    "lon": 9.197054,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932959,
+    "lat": 45.4875179,
+    "lon": 9.1971434,
+    "tags": {
+      "crossing": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932961,
+    "lat": 45.4876499,
+    "lon": 9.1975859,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932962,
+    "lat": 45.4877422,
+    "lon": 9.1969251,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932964,
+    "lat": 45.4878211,
+    "lon": 9.1967838,
+    "tags": {
+      "amenity": "clock"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932965,
+    "lat": 45.4878685,
+    "lon": 9.1975099,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932968,
+    "lat": 45.4880224,
+    "lon": 9.1967119,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758932969,
+    "lat": 45.4880224,
+    "lon": 9.1976659,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758948422,
+    "lat": 45.488544,
+    "lon": 9.1962608,
+    "tags": {
+      "amenity": "bench",
+      "backrest": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758948424,
+    "lat": 45.4886715,
+    "lon": 9.1963766,
+    "tags": {
+      "amenity": "bench",
+      "backrest": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3758949399,
+    "lat": 45.4885669,
+    "lon": 9.196319,
+    "tags": {
+      "amenity": "bench",
+      "backrest": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3806895657,
+    "lat": 45.4898833,
+    "lon": 9.200669,
+    "tags": {
+      "highway": "bus_stop",
+      "name": "Sondrio M3",
+      "old_name": "Viale Sondrio - Via Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3896542283,
+    "lat": 45.4933987,
+    "lon": 9.2053366,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3896542287,
+    "lat": 45.4946349,
+    "lon": 9.2072921,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3896543368,
+    "lat": 45.495033,
+    "lon": 9.20933,
+    "tags": {
+      "highway": "stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3897930814,
+    "lat": 45.4902595,
+    "lon": 9.2015709,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3897930820,
+    "lat": 45.4901148,
+    "lon": 9.2015674,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3897930825,
+    "lat": 45.4902879,
+    "lon": 9.2016659,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004595,
+    "lat": 45.4895071,
+    "lon": 9.2013061,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004596,
+    "lat": 45.4896248,
+    "lon": 9.2014187,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004597,
+    "lat": 45.4895694,
+    "lon": 9.2013653,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004598,
+    "lat": 45.4897465,
+    "lon": 9.2013658,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004599,
+    "lat": 45.4897552,
+    "lon": 9.2010094,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004600,
+    "lat": 45.4895059,
+    "lon": 9.2010803,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004603,
+    "lat": 45.4896916,
+    "lon": 9.2009304,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004604,
+    "lat": 45.4898011,
+    "lon": 9.2010664,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004605,
+    "lat": 45.4895604,
+    "lon": 9.2009743,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3898004606,
+    "lat": 45.4898102,
+    "lon": 9.2012532,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3989817017,
+    "lat": 45.4894666,
+    "lon": 9.2005909,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "71",
+      "addr:postcode": "20124",
+      "addr:street": "Via Melchiorre Gioia",
+      "amenity": "bar",
+      "name": "Andren Ros Casè",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4037079870,
+    "lat": 45.4912206,
+    "lon": 9.2044745,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "61",
+      "addr:postcode": "20125",
+      "addr:street": "Via Copernico",
+      "name": "MJ studio d'immagine Hair & Nails",
+      "opening_hours": "Tu-We 08:30-19:30; Th 08:30-22:00; Fr-Sa 08:30-19:30",
+      "payment:bitcoin": "yes",
+      "phone": "+39 02 66981743",
+      "shop": "hairdresser",
+      "website": "http://mjparrucchierimilano.it"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4041795549,
+    "lat": 45.4958351,
+    "lon": 9.2100058,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "55/A",
+      "addr:postcode": "20125",
+      "addr:street": "Via Gianfranco Zuretti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4041795550,
+    "lat": 45.4960786,
+    "lon": 9.2102284,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "59",
+      "addr:postcode": "20125",
+      "addr:street": "Via Gianfranco Zuretti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4041811657,
+    "lat": 45.4959235,
+    "lon": 9.2100769,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "57",
+      "addr:postcode": "20125",
+      "addr:street": "Via Gianfranco Zuretti",
+      "amenity": "cafe",
+      "name": "Bar Fiamingo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4041812830,
+    "lat": 45.4959564,
+    "lon": 9.2101037,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "57",
+      "addr:postcode": "20125",
+      "addr:street": "Via Gianfranco Zuretti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4041813158,
+    "lat": 45.4962205,
+    "lon": 9.2103746,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "61",
+      "addr:postcode": "20125",
+      "addr:street": "Via Gianfranco Zuretti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4193179450,
+    "lat": 45.4907719,
+    "lon": 9.2027454,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4193179451,
+    "lat": 45.4915304,
+    "lon": 9.2035696,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4193179452,
+    "lat": 45.4915732,
+    "lon": 9.2036169,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4230457972,
+    "lat": 45.4847261,
+    "lon": 9.1954794,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4230457974,
+    "lat": 45.4850994,
+    "lon": 9.1953041,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4230457976,
+    "lat": 45.4851214,
+    "lon": 9.1954856,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4269461690,
+    "lat": 45.4871588,
+    "lon": 9.1968174,
+    "tags": {
+      "comment:it": "entrata di supermercato Carrefour Express",
+      "entrance": "main"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4269461691,
+    "lat": 45.4871609,
+    "lon": 9.1966384,
+    "tags": {
+      "comment:it": "entrata di supermercato Carrefour Express",
+      "entrance": "main"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305609557,
+    "lat": 45.4890852,
+    "lon": 9.1976297,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "12",
+      "addr:postcode": "20124",
+      "addr:street": "Via Timavo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305609565,
+    "lat": 45.4898919,
+    "lon": 9.1982425,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "24",
+      "addr:postcode": "20124",
+      "addr:street": "Via Timavo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305609586,
+    "lat": 45.4902341,
+    "lon": 9.1985067,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "32",
+      "addr:postcode": "20124",
+      "addr:street": "Via Timavo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305609599,
+    "lat": 45.4895262,
+    "lon": 9.197969,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "14",
+      "addr:postcode": "20124",
+      "addr:street": "Via Timavo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305609630,
+    "lat": 45.4905208,
+    "lon": 9.198724,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "34",
+      "addr:postcode": "20124",
+      "addr:street": "Via Timavo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305612178,
+    "lat": 45.4885517,
+    "lon": 9.1962986,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305612179,
+    "lat": 45.488656,
+    "lon": 9.1963657,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305613106,
+    "lat": 45.4889958,
+    "lon": 9.1971765,
+    "tags": {
+      "barrier": "gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305613109,
+    "lat": 45.4890847,
+    "lon": 9.196933,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4305613342,
+    "lat": 45.4906877,
+    "lon": 9.1987729,
+    "tags": {
+      "amenity": "vending_machine",
+      "vending": "parking_tickets"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4350335340,
+    "lat": 45.4950567,
+    "lon": 9.2042791,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "20",
+      "addr:street": "Via privata Angera"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4350335341,
+    "lat": 45.4935827,
+    "lon": 9.2054217,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "129",
+      "addr:street": "Via Melchiorre Gioia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4365124232,
+    "lat": 45.4912608,
+    "lon": 9.202019,
+    "tags": {
+      "barrier": "lift_gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4365124233,
+    "lat": 45.4915087,
+    "lon": 9.2015221,
+    "tags": {
+      "barrier": "lift_gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4365124235,
+    "lat": 45.4919106,
+    "lon": 9.202661,
+    "tags": {
+      "barrier": "lift_gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4365124236,
+    "lat": 45.49216,
+    "lon": 9.202169,
+    "tags": {
+      "barrier": "lift_gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4378885692,
+    "lat": 45.4977716,
+    "lon": 9.2087376,
+    "tags": {
+      "alt_name": "Cascina dei Pomi",
+      "name": "Cassina de' Pomm",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4456558420,
+    "lat": 45.4899887,
+    "lon": 9.2008398,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Viale Sondrio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4456558421,
+    "lat": 45.4894381,
+    "lon": 9.200569,
+    "tags": {
+      "amenity": "bar",
+      "name": "Richmond"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4456558427,
+    "lat": 45.4899757,
+    "lon": 9.2008645,
+    "tags": {
+      "amenity": "post_box"
+    }
+  }
+]

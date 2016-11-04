@@ -1,0 +1,3818 @@
+[
+  {
+    "type": "node",
+    "id": 21225885,
+    "lat": 45.4800714,
+    "lon": 9.1897116,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 21226218,
+    "lat": 45.4846358,
+    "lon": 9.1950971,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 21226476,
+    "lat": 45.482916,
+    "lon": 9.1930807,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 21226533,
+    "lat": 45.4797497,
+    "lon": 9.1921747,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 21306381,
+    "lat": 45.484641,
+    "lon": 9.1953072,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 21306400,
+    "lat": 45.4828461,
+    "lon": 9.1932163,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 25543629,
+    "lat": 45.4812237,
+    "lon": 9.196929,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 25543769,
+    "lat": 45.4829285,
+    "lon": 9.1933055,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 25543813,
+    "lat": 45.4829983,
+    "lon": 9.1931699,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 53763220,
+    "lat": 45.4847095,
+    "lon": 9.1951986,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 91567648,
+    "lat": 45.4848999,
+    "lon": 9.1948574,
+    "keyType": "railway",
+    "keyValue": "station"
+  },
+  {
+    "type": "node",
+    "id": 232856408,
+    "lat": 45.4802356,
+    "lon": 9.1930426,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 241474729,
+    "lat": 45.4795073,
+    "lon": 9.1928487,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 260484047,
+    "lat": 45.4796686,
+    "lon": 9.1928998,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 263049100,
+    "lat": 45.4851659,
+    "lon": 9.1944725,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 282557079,
+    "lat": 45.4831777,
+    "lon": 9.1949519,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 282558109,
+    "lat": 45.4856893,
+    "lon": 9.1916803,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 308840682,
+    "lat": 45.4807013,
+    "lon": 9.1904496,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 316535174,
+    "lat": 45.4799468,
+    "lon": 9.1928141,
+    "keyType": "amenity",
+    "keyValue": "bicycle_rental"
+  },
+  {
+    "type": "node",
+    "id": 468943094,
+    "lat": 45.4831233,
+    "lon": 9.1931461,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 537514838,
+    "lat": 45.4801092,
+    "lon": 9.1929921,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 787822236,
+    "lat": 45.484563,
+    "lon": 9.1952091,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 1107696118,
+    "lat": 45.483312,
+    "lon": 9.1947206,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1111714813,
+    "lat": 45.4810934,
+    "lon": 9.1967181,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 1276981428,
+    "lat": 45.4840439,
+    "lon": 9.1958492,
+    "keyType": "amenity",
+    "keyValue": "bicycle_rental"
+  },
+  {
+    "type": "node",
+    "id": 1328900899,
+    "lat": 45.4801997,
+    "lon": 9.1888232,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1408151059,
+    "lat": 45.4815544,
+    "lon": 9.1896928,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1408151060,
+    "lat": 45.4816397,
+    "lon": 9.1895116,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1463921325,
+    "lat": 45.4829442,
+    "lon": 9.1944526,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 1463921328,
+    "lat": 45.4829775,
+    "lon": 9.1938157,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1463921329,
+    "lat": 45.4829784,
+    "lon": 9.1935308,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1463921351,
+    "lat": 45.4830309,
+    "lon": 9.1946721,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 1463921362,
+    "lat": 45.4831477,
+    "lon": 9.1944276,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1463921365,
+    "lat": 45.4831733,
+    "lon": 9.1948291,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1463921372,
+    "lat": 45.4832137,
+    "lon": 9.1940846,
+    "keyType": "amenity",
+    "keyValue": "parking"
+  },
+  {
+    "type": "node",
+    "id": 1463921374,
+    "lat": 45.4832324,
+    "lon": 9.194769,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1463921383,
+    "lat": 45.4832989,
+    "lon": 9.1940015,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 1463921387,
+    "lat": 45.4833272,
+    "lon": 9.1942048,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 1463921393,
+    "lat": 45.4834039,
+    "lon": 9.1941756,
+    "keyType": "barrier",
+    "keyValue": "swing_gate"
+  },
+  {
+    "type": "node",
+    "id": 1463921395,
+    "lat": 45.4834335,
+    "lon": 9.1942438,
+    "keyType": "barrier",
+    "keyValue": "swing_gate"
+  },
+  {
+    "type": "node",
+    "id": 1463921427,
+    "lat": 45.4838858,
+    "lon": 9.1954039,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 1479248935,
+    "lat": 45.4797889,
+    "lon": 9.1938722,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1479259661,
+    "lat": 45.4807153,
+    "lon": 9.1904709,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 1484905503,
+    "lat": 45.4844019,
+    "lon": 9.1953017,
+    "keyType": "railway",
+    "keyValue": "subway_entrance"
+  },
+  {
+    "type": "node",
+    "id": 1484905505,
+    "lat": 45.4847027,
+    "lon": 9.1947889,
+    "keyType": "railway",
+    "keyValue": "subway_entrance"
+  },
+  {
+    "type": "node",
+    "id": 1523573724,
+    "lat": 45.4797449,
+    "lon": 9.1930759,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1523573726,
+    "lat": 45.4797342,
+    "lon": 9.1929204,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1523573806,
+    "lat": 45.4807944,
+    "lon": 9.1906646,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1523573811,
+    "lat": 45.4808546,
+    "lon": 9.1905668,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1523574009,
+    "lat": 45.4816069,
+    "lon": 9.1916987,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1523574013,
+    "lat": 45.4816797,
+    "lon": 9.1915709,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1523604714,
+    "lat": 45.479824,
+    "lon": 9.1922056,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1523604747,
+    "lat": 45.4800369,
+    "lon": 9.1899415,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1523604759,
+    "lat": 45.4801137,
+    "lon": 9.1899704,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1523604763,
+    "lat": 45.4801672,
+    "lon": 9.1899417,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 1523604786,
+    "lat": 45.4802156,
+    "lon": 9.1923154,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1583651469,
+    "lat": 45.4842987,
+    "lon": 9.1954739,
+    "keyType": "railway",
+    "keyValue": "subway_entrance"
+  },
+  {
+    "type": "node",
+    "id": 1598229892,
+    "lat": 45.4800462,
+    "lon": 9.1922078,
+    "keyType": "highway",
+    "keyValue": "bus_stop"
+  },
+  {
+    "type": "node",
+    "id": 1693183357,
+    "lat": 45.4835959,
+    "lon": 9.1950784,
+    "keyType": "amenity",
+    "keyValue": "vending_machine"
+  },
+  {
+    "type": "node",
+    "id": 1725740894,
+    "lat": 45.479497,
+    "lon": 9.1929639,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1725740900,
+    "lat": 45.4796055,
+    "lon": 9.1938525,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 1725740909,
+    "lat": 45.4796579,
+    "lon": 9.1930051,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1725740913,
+    "lat": 45.4796719,
+    "lon": 9.1938005,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1725740915,
+    "lat": 45.4797618,
+    "lon": 9.1929965,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 1725740920,
+    "lat": 45.4801305,
+    "lon": 9.1897851,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1730563192,
+    "lat": 45.4797721,
+    "lon": 9.1950113,
+    "keyType": "railway",
+    "keyValue": "tram_stop"
+  },
+  {
+    "type": "node",
+    "id": 1769318219,
+    "lat": 45.4857715,
+    "lon": 9.1927925,
+    "keyType": "barrier",
+    "keyValue": "gate"
+  },
+  {
+    "type": "node",
+    "id": 1831141814,
+    "lat": 45.482795,
+    "lon": 9.1933157,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1831141817,
+    "lat": 45.4828745,
+    "lon": 9.1934096,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1946779114,
+    "lat": 45.4796333,
+    "lon": 9.1943857,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 1946779119,
+    "lat": 45.4796786,
+    "lon": 9.1945822,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 1946779126,
+    "lat": 45.4801751,
+    "lon": 9.1928904,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1946779127,
+    "lat": 45.4802434,
+    "lon": 9.1924337,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1946779128,
+    "lat": 45.4802259,
+    "lon": 9.1930225,
+    "keyType": "highway",
+    "keyValue": "traffic_signals"
+  },
+  {
+    "type": "node",
+    "id": 1946779137,
+    "lat": 45.4806781,
+    "lon": 9.1905919,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1946783555,
+    "lat": 45.4812814,
+    "lon": 9.1970527,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 1973121652,
+    "lat": 45.4846499,
+    "lon": 9.1947328,
+    "keyType": "amenity",
+    "keyValue": "bicycle_rental"
+  },
+  {
+    "type": "node",
+    "id": 2091579081,
+    "lat": 45.4822106,
+    "lon": 9.1921108,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2091579088,
+    "lat": 45.4853831,
+    "lon": 9.1903431,
+    "keyType": "barrier",
+    "keyValue": "bollard"
+  },
+  {
+    "type": "node",
+    "id": 2095552621,
+    "lat": 45.4840897,
+    "lon": 9.1962556,
+    "keyType": "amenity",
+    "keyValue": "taxi"
+  },
+  {
+    "type": "node",
+    "id": 2095618239,
+    "lat": 45.4856008,
+    "lon": 9.1914383,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 2095618249,
+    "lat": 45.4854061,
+    "lon": 9.1904206,
+    "keyType": "barrier",
+    "keyValue": "bollard"
+  },
+  {
+    "type": "node",
+    "id": 2095618252,
+    "lat": 45.4855185,
+    "lon": 9.1904001,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2095675769,
+    "lat": 45.4806429,
+    "lon": 9.1889643,
+    "keyType": "amenity",
+    "keyValue": "pharmacy"
+  },
+  {
+    "type": "node",
+    "id": 2154522224,
+    "lat": 45.4852736,
+    "lon": 9.1937394,
+    "keyType": "barrier",
+    "keyValue": "gate"
+  },
+  {
+    "type": "node",
+    "id": 2157550551,
+    "lat": 45.4832209,
+    "lon": 9.1944247,
+    "keyType": "amenity",
+    "keyValue": "bicycle_parking"
+  },
+  {
+    "type": "node",
+    "id": 2157550552,
+    "lat": 45.4840935,
+    "lon": 9.1953474,
+    "keyType": "amenity",
+    "keyValue": "bicycle_parking"
+  },
+  {
+    "type": "node",
+    "id": 2161119627,
+    "lat": 45.4812016,
+    "lon": 9.1915463,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 2161119650,
+    "lat": 45.4805955,
+    "lon": 9.1903152,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2161119651,
+    "lat": 45.4806598,
+    "lon": 9.1906332,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2192353217,
+    "lat": 45.4829508,
+    "lon": 9.190758,
+    "keyType": "amenity",
+    "keyValue": "bicycle_parking"
+  },
+  {
+    "type": "node",
+    "id": 2203364275,
+    "lat": 45.4828245,
+    "lon": 9.1898379,
+    "keyType": "amenity",
+    "keyValue": "taxi"
+  },
+  {
+    "type": "node",
+    "id": 2299781966,
+    "lat": 45.4803212,
+    "lon": 9.1905302,
+    "keyType": "amenity",
+    "keyValue": "bicycle_parking"
+  },
+  {
+    "type": "node",
+    "id": 2353216950,
+    "lat": 45.482937,
+    "lon": 9.1903869,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2381386931,
+    "lat": 45.485485,
+    "lon": 9.1903198,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2430052881,
+    "lat": 45.4816674,
+    "lon": 9.1918869,
+    "keyType": "highway",
+    "keyValue": "bus_stop"
+  },
+  {
+    "type": "node",
+    "id": 2430118089,
+    "lat": 45.4820807,
+    "lon": 9.1919672,
+    "keyType": "highway",
+    "keyValue": "bus_stop"
+  },
+  {
+    "type": "node",
+    "id": 2476881430,
+    "lat": 45.483028,
+    "lon": 9.194915,
+    "keyType": "amenity",
+    "keyValue": "cafe"
+  },
+  {
+    "type": "node",
+    "id": 2476881436,
+    "lat": 45.4831411,
+    "lon": 9.1947989,
+    "keyType": "barrier",
+    "keyValue": "swing_gate"
+  },
+  {
+    "type": "node",
+    "id": 2476881438,
+    "lat": 45.4831888,
+    "lon": 9.1947148,
+    "keyType": "barrier",
+    "keyValue": "swing_gate"
+  },
+  {
+    "type": "node",
+    "id": 2476920316,
+    "lat": 45.4803273,
+    "lon": 9.1950955,
+    "keyType": "amenity",
+    "keyValue": "parking"
+  },
+  {
+    "type": "node",
+    "id": 2476920317,
+    "lat": 45.4802826,
+    "lon": 9.1946709,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 2476920318,
+    "lat": 45.4800207,
+    "lon": 9.1951544,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2476920320,
+    "lat": 45.4801179,
+    "lon": 9.195113,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 2476931148,
+    "lat": 45.48293,
+    "lon": 9.1952991,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 2483811062,
+    "lat": 45.4851454,
+    "lon": 9.1937771,
+    "keyType": "barrier",
+    "keyValue": "gate"
+  },
+  {
+    "type": "node",
+    "id": 2485358765,
+    "lat": 45.4794739,
+    "lon": 9.1942589,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2488582272,
+    "lat": 45.4860031,
+    "lon": 9.1939688,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2491530881,
+    "lat": 45.4856305,
+    "lon": 9.1916935,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2491530916,
+    "lat": 45.4856213,
+    "lon": 9.1915986,
+    "keyType": "amenity",
+    "keyValue": "bar"
+  },
+  {
+    "type": "node",
+    "id": 2494931748,
+    "lat": 45.4810038,
+    "lon": 9.1906411,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2494980682,
+    "lat": 45.4796495,
+    "lon": 9.1941585,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 2511317374,
+    "lat": 45.4826408,
+    "lon": 9.1895252,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 2566864256,
+    "lat": 45.483016,
+    "lon": 9.1911647,
+    "keyType": "amenity",
+    "keyValue": "ice_cream"
+  },
+  {
+    "type": "node",
+    "id": 2609482594,
+    "lat": 45.4803446,
+    "lon": 9.192204,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2609495417,
+    "lat": 45.4807527,
+    "lon": 9.1907326,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2613616016,
+    "lat": 45.4829955,
+    "lon": 9.1933782,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2613616024,
+    "lat": 45.4827828,
+    "lon": 9.1931476,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2613616032,
+    "lat": 45.4828584,
+    "lon": 9.1928241,
+    "keyType": "barrier",
+    "keyValue": "bollard"
+  },
+  {
+    "type": "node",
+    "id": 2613616036,
+    "lat": 45.4830397,
+    "lon": 9.1930896,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2613616047,
+    "lat": 45.4827042,
+    "lon": 9.1932088,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2613616054,
+    "lat": 45.4827025,
+    "lon": 9.1932678,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2613616057,
+    "lat": 45.4830669,
+    "lon": 9.1932443,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2613616072,
+    "lat": 45.4828475,
+    "lon": 9.1930074,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2613616076,
+    "lat": 45.482891,
+    "lon": 9.1928648,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2613616078,
+    "lat": 45.4831203,
+    "lon": 9.1930031,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 2613616084,
+    "lat": 45.4829563,
+    "lon": 9.1930023,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2617880183,
+    "lat": 45.4799229,
+    "lon": 9.1930662,
+    "keyType": "highway",
+    "keyValue": "bus_stop"
+  },
+  {
+    "type": "node",
+    "id": 2619696033,
+    "lat": 45.4838945,
+    "lon": 9.1914442,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 2619696041,
+    "lat": 45.4838023,
+    "lon": 9.1912318,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 2619705362,
+    "lat": 45.4838309,
+    "lon": 9.1906395,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 2619705363,
+    "lat": 45.4831891,
+    "lon": 9.1923634,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 2619705364,
+    "lat": 45.4832286,
+    "lon": 9.192666,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 2619705366,
+    "lat": 45.4832566,
+    "lon": 9.1921077,
+    "keyType": "barrier",
+    "keyValue": "entrance"
+  },
+  {
+    "type": "node",
+    "id": 2619705369,
+    "lat": 45.4837175,
+    "lon": 9.1910291,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 2619705378,
+    "lat": 45.4838351,
+    "lon": 9.1907111,
+    "keyType": "man_made",
+    "keyValue": "surveillance"
+  },
+  {
+    "type": "node",
+    "id": 2619705380,
+    "lat": 45.483845,
+    "lon": 9.1906841,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 2619705381,
+    "lat": 45.4838824,
+    "lon": 9.1906022,
+    "keyType": "highway",
+    "keyValue": "speed_camera"
+  },
+  {
+    "type": "node",
+    "id": 2619705382,
+    "lat": 45.483905,
+    "lon": 9.1908729,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 2622392120,
+    "lat": 45.4812671,
+    "lon": 9.197023,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2625350087,
+    "lat": 45.4807854,
+    "lon": 9.1882439,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2625350088,
+    "lat": 45.4804367,
+    "lon": 9.1942456,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2625350089,
+    "lat": 45.4808996,
+    "lon": 9.1882772,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2625350092,
+    "lat": 45.4804066,
+    "lon": 9.1941603,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2625350094,
+    "lat": 45.4796608,
+    "lon": 9.1945146,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2659099573,
+    "lat": 45.4804959,
+    "lon": 9.1875274,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2683990457,
+    "lat": 45.4856558,
+    "lon": 9.1916886,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2698624849,
+    "lat": 45.4855777,
+    "lon": 9.192877,
+    "keyType": "amenity",
+    "keyValue": "drinking_water"
+  },
+  {
+    "type": "node",
+    "id": 2699728186,
+    "lat": 45.4796633,
+    "lon": 9.1942847,
+    "keyType": "railway",
+    "keyValue": "tram_stop"
+  },
+  {
+    "type": "node",
+    "id": 2699728187,
+    "lat": 45.4802409,
+    "lon": 9.1928139,
+    "keyType": "railway",
+    "keyValue": "tram_stop"
+  },
+  {
+    "type": "node",
+    "id": 2699728188,
+    "lat": 45.4803095,
+    "lon": 9.1925463,
+    "keyType": "railway",
+    "keyValue": "tram_stop"
+  },
+  {
+    "type": "node",
+    "id": 2699730643,
+    "lat": 45.4807223,
+    "lon": 9.1900456,
+    "keyType": "railway",
+    "keyValue": "tram_stop"
+  },
+  {
+    "type": "node",
+    "id": 2699736637,
+    "lat": 45.4807963,
+    "lon": 9.1890703,
+    "keyType": "railway",
+    "keyValue": "tram_stop"
+  },
+  {
+    "type": "node",
+    "id": 2718040340,
+    "lat": 45.4811768,
+    "lon": 9.1966531,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2724084311,
+    "lat": 45.4819539,
+    "lon": 9.1884911,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2724084317,
+    "lat": 45.4819644,
+    "lon": 9.1886147,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2724084337,
+    "lat": 45.4820976,
+    "lon": 9.1885204,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2724084339,
+    "lat": 45.4826511,
+    "lon": 9.1911109,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 2724084340,
+    "lat": 45.4826603,
+    "lon": 9.1910646,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 2724084341,
+    "lat": 45.4826964,
+    "lon": 9.1893616,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 2724084344,
+    "lat": 45.4826881,
+    "lon": 9.191025,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 2724112980,
+    "lat": 45.4823018,
+    "lon": 9.1897389,
+    "keyType": "leisure",
+    "keyValue": "club"
+  },
+  {
+    "type": "node",
+    "id": 2724112981,
+    "lat": 45.4819975,
+    "lon": 9.1897703,
+    "keyType": "amenity",
+    "keyValue": "bar"
+  },
+  {
+    "type": "node",
+    "id": 2724113019,
+    "lat": 45.4827927,
+    "lon": 9.1912279,
+    "keyType": "amenity",
+    "keyValue": "parking"
+  },
+  {
+    "type": "node",
+    "id": 2724113037,
+    "lat": 45.4815991,
+    "lon": 9.1895955,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 2724113051,
+    "lat": 45.4816615,
+    "lon": 9.1894205,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 2724113368,
+    "lat": 45.4823235,
+    "lon": 9.1894011,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 2724139156,
+    "lat": 45.4811442,
+    "lon": 9.188507,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 2724139175,
+    "lat": 45.4816459,
+    "lon": 9.1886205,
+    "keyType": "amenity",
+    "keyValue": "bar"
+  },
+  {
+    "type": "node",
+    "id": 2724139186,
+    "lat": 45.4816655,
+    "lon": 9.1891998,
+    "keyType": "amenity",
+    "keyValue": "parking"
+  },
+  {
+    "type": "node",
+    "id": 2724139235,
+    "lat": 45.481553,
+    "lon": 9.1884753,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 2724139279,
+    "lat": 45.482032,
+    "lon": 9.1885739,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 2724139304,
+    "lat": 45.4827362,
+    "lon": 9.188731,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 2739493100,
+    "lat": 45.4818601,
+    "lon": 9.1923252,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2748445954,
+    "lat": 45.4811812,
+    "lon": 9.1913529,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2869913466,
+    "lat": 45.4818622,
+    "lon": 9.1931006,
+    "keyType": "highway",
+    "keyValue": "elevator"
+  },
+  {
+    "type": "node",
+    "id": 2869913467,
+    "lat": 45.4826524,
+    "lon": 9.192482,
+    "keyType": "highway",
+    "keyValue": "elevator"
+  },
+  {
+    "type": "node",
+    "id": 2876056107,
+    "lat": 45.4815859,
+    "lon": 9.1933535,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2880766790,
+    "lat": 45.4803853,
+    "lon": 9.1903642,
+    "keyType": "amenity",
+    "keyValue": "drinking_water"
+  },
+  {
+    "type": "node",
+    "id": 2883006771,
+    "lat": 45.4817097,
+    "lon": 9.1943329,
+    "keyType": "highway",
+    "keyValue": "elevator"
+  },
+  {
+    "type": "node",
+    "id": 2888123089,
+    "lat": 45.4818997,
+    "lon": 9.1923245,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2888129005,
+    "lat": 45.482058,
+    "lon": 9.1922463,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2888129008,
+    "lat": 45.4821532,
+    "lon": 9.192351,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2888129010,
+    "lat": 45.4821172,
+    "lon": 9.1921429,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2888129014,
+    "lat": 45.4822165,
+    "lon": 9.192262,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2889871253,
+    "lat": 45.4803054,
+    "lon": 9.196301,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2889871259,
+    "lat": 45.4804449,
+    "lon": 9.1961715,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2889871274,
+    "lat": 45.4806818,
+    "lon": 9.1966241,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2889871275,
+    "lat": 45.4806908,
+    "lon": 9.1965792,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2889871299,
+    "lat": 45.4826609,
+    "lon": 9.193214,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2889872101,
+    "lat": 45.4828154,
+    "lon": 9.1932756,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2889872102,
+    "lat": 45.4828961,
+    "lon": 9.1933688,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2890631715,
+    "lat": 45.4819691,
+    "lon": 9.1923855,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2890631718,
+    "lat": 45.4820589,
+    "lon": 9.1925078,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2890631726,
+    "lat": 45.4824773,
+    "lon": 9.1932363,
+    "keyType": "amenity",
+    "keyValue": "bicycle_parking"
+  },
+  {
+    "type": "node",
+    "id": 2907518644,
+    "lat": 45.4808181,
+    "lon": 9.1880992,
+    "keyType": "amenity",
+    "keyValue": "bicycle_parking"
+  },
+  {
+    "type": "node",
+    "id": 2907518651,
+    "lat": 45.4808472,
+    "lon": 9.1880963,
+    "keyType": "amenity",
+    "keyValue": "motorcycle_parking"
+  },
+  {
+    "type": "node",
+    "id": 2915633266,
+    "lat": 45.4831631,
+    "lon": 9.1910362,
+    "keyType": "amenity",
+    "keyValue": "bicycle_parking"
+  },
+  {
+    "type": "node",
+    "id": 2981540249,
+    "lat": 45.4806461,
+    "lon": 9.1966028,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2981540250,
+    "lat": 45.4806562,
+    "lon": 9.1965463,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 2992556287,
+    "lat": 45.480364,
+    "lon": 9.195955,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 3078957880,
+    "lat": 45.4810339,
+    "lon": 9.1907198,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3078957887,
+    "lat": 45.4833443,
+    "lon": 9.1906592,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 3078963340,
+    "lat": 45.4806695,
+    "lon": 9.1887328,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 3078972718,
+    "lat": 45.4809224,
+    "lon": 9.1887328,
+    "keyType": "amenity",
+    "keyValue": "pub"
+  },
+  {
+    "type": "node",
+    "id": 3078973137,
+    "lat": 45.4813508,
+    "lon": 9.1898898,
+    "keyType": "amenity",
+    "keyValue": "cafe"
+  },
+  {
+    "type": "node",
+    "id": 3078973140,
+    "lat": 45.4808922,
+    "lon": 9.1929245,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3078973270,
+    "lat": 45.4808816,
+    "lon": 9.18955,
+    "keyType": "amenity",
+    "keyValue": "nightclub"
+  },
+  {
+    "type": "node",
+    "id": 3078973271,
+    "lat": 45.4809079,
+    "lon": 9.1889601,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 3078973273,
+    "lat": 45.4832475,
+    "lon": 9.1910018,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3078995992,
+    "lat": 45.4816943,
+    "lon": 9.1915051,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3078995994,
+    "lat": 45.4817979,
+    "lon": 9.192043,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3078995996,
+    "lat": 45.4819577,
+    "lon": 9.1917963,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079032929,
+    "lat": 45.4822148,
+    "lon": 9.193256,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3079032930,
+    "lat": 45.4824236,
+    "lon": 9.1930431,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079032931,
+    "lat": 45.482471,
+    "lon": 9.1930521,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3079034076,
+    "lat": 45.4807705,
+    "lon": 9.1926856,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 3079034083,
+    "lat": 45.4804891,
+    "lon": 9.1941931,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079034084,
+    "lat": 45.481182,
+    "lon": 9.1941311,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079034142,
+    "lat": 45.4810239,
+    "lon": 9.1927387,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 3079034143,
+    "lat": 45.4803984,
+    "lon": 9.1942113,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079034144,
+    "lat": 45.4807184,
+    "lon": 9.1953001,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079034145,
+    "lat": 45.4809065,
+    "lon": 9.1930177,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079034146,
+    "lat": 45.4812083,
+    "lon": 9.1942028,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079034147,
+    "lat": 45.4821605,
+    "lon": 9.193203,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3079034148,
+    "lat": 45.4825111,
+    "lon": 9.1930933,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3079035051,
+    "lat": 45.4807066,
+    "lon": 9.1934987,
+    "keyType": "amenity",
+    "keyValue": "cafe"
+  },
+  {
+    "type": "node",
+    "id": 3079035058,
+    "lat": 45.4808786,
+    "lon": 9.1949494,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079035059,
+    "lat": 45.4810351,
+    "lon": 9.194604,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3079035060,
+    "lat": 45.4820548,
+    "lon": 9.1932191,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3079042725,
+    "lat": 45.4800325,
+    "lon": 9.1952048,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3217980426,
+    "lat": 45.482829,
+    "lon": 9.1941769,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3217980428,
+    "lat": 45.4828532,
+    "lon": 9.1941276,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3217980431,
+    "lat": 45.4828887,
+    "lon": 9.1940555,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3217980433,
+    "lat": 45.4829035,
+    "lon": 9.1936773,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3217982403,
+    "lat": 45.4814804,
+    "lon": 9.1973694,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3217982416,
+    "lat": 45.4816929,
+    "lon": 9.1952683,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3217982532,
+    "lat": 45.4819605,
+    "lon": 9.1946894,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3217982542,
+    "lat": 45.4822609,
+    "lon": 9.1922061,
+    "keyType": "barrier",
+    "keyValue": "bollard"
+  },
+  {
+    "type": "node",
+    "id": 3217982547,
+    "lat": 45.4827356,
+    "lon": 9.1942078,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3217983490,
+    "lat": 45.4814081,
+    "lon": 9.1969542,
+    "keyType": "railway",
+    "keyValue": "subway_entrance"
+  },
+  {
+    "type": "node",
+    "id": 3217983491,
+    "lat": 45.4814539,
+    "lon": 9.1968271,
+    "keyType": "railway",
+    "keyValue": "subway_entrance"
+  },
+  {
+    "type": "node",
+    "id": 3217983531,
+    "lat": 45.4817477,
+    "lon": 9.1945464,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 3217983678,
+    "lat": 45.4829057,
+    "lon": 9.1940209,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3217983881,
+    "lat": 45.481077,
+    "lon": 9.1965445,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 3217983890,
+    "lat": 45.4813805,
+    "lon": 9.1968339,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3217983905,
+    "lat": 45.4817041,
+    "lon": 9.1965955,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3217983970,
+    "lat": 45.4827406,
+    "lon": 9.1944072,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3217983971,
+    "lat": 45.4827669,
+    "lon": 9.1941843,
+    "keyType": "amenity",
+    "keyValue": "drinking_water"
+  },
+  {
+    "type": "node",
+    "id": 3217983972,
+    "lat": 45.4828394,
+    "lon": 9.1941557,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3217983973,
+    "lat": 45.4828772,
+    "lon": 9.1940789,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3217983974,
+    "lat": 45.4828985,
+    "lon": 9.1938182,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3217983975,
+    "lat": 45.4829051,
+    "lon": 9.1945434,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3265381430,
+    "lat": 45.4819659,
+    "lon": 9.1923064,
+    "keyType": "amenity",
+    "keyValue": "bicycle_parking"
+  },
+  {
+    "type": "node",
+    "id": 3307147582,
+    "lat": 45.4827322,
+    "lon": 9.188668,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307148054,
+    "lat": 45.4805876,
+    "lon": 9.1905349,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3307148058,
+    "lat": 45.4806579,
+    "lon": 9.1902101,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307148292,
+    "lat": 45.4801477,
+    "lon": 9.190257,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307148293,
+    "lat": 45.4801593,
+    "lon": 9.1895744,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3307148297,
+    "lat": 45.4815247,
+    "lon": 9.1918431,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307148298,
+    "lat": 45.4815496,
+    "lon": 9.1917993,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307148300,
+    "lat": 45.4822421,
+    "lon": 9.192054,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307148838,
+    "lat": 45.4801725,
+    "lon": 9.19009,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307148840,
+    "lat": 45.4802016,
+    "lon": 9.1896361,
+    "keyType": "amenity",
+    "keyValue": "vending_machine"
+  },
+  {
+    "type": "node",
+    "id": 3307148843,
+    "lat": 45.4802581,
+    "lon": 9.1901847,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307148851,
+    "lat": 45.4803321,
+    "lon": 9.1882543,
+    "keyType": "amenity",
+    "keyValue": "vending_machine"
+  },
+  {
+    "type": "node",
+    "id": 3307148853,
+    "lat": 45.4803549,
+    "lon": 9.1902859,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307148854,
+    "lat": 45.4803545,
+    "lon": 9.1906307,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307148856,
+    "lat": 45.4804014,
+    "lon": 9.1898497,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307148857,
+    "lat": 45.4804408,
+    "lon": 9.1928308,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307149041,
+    "lat": 45.4803099,
+    "lon": 9.1902682,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307149042,
+    "lat": 45.4803312,
+    "lon": 9.1902057,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3307149239,
+    "lat": 45.4822553,
+    "lon": 9.1896483,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307149261,
+    "lat": 45.4804762,
+    "lon": 9.1898837,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307149262,
+    "lat": 45.480559,
+    "lon": 9.1899178,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307149361,
+    "lat": 45.4807305,
+    "lon": 9.1907983,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3307149362,
+    "lat": 45.480726,
+    "lon": 9.1902627,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307149371,
+    "lat": 45.4808663,
+    "lon": 9.1878095,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307875552,
+    "lat": 45.4812664,
+    "lon": 9.1968134,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307875554,
+    "lat": 45.4817155,
+    "lon": 9.1929675,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307875566,
+    "lat": 45.4811178,
+    "lon": 9.1965638,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307886474,
+    "lat": 45.482096,
+    "lon": 9.1924966,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307958654,
+    "lat": 45.4857854,
+    "lon": 9.1941505,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307958656,
+    "lat": 45.4859935,
+    "lon": 9.1939131,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3307978024,
+    "lat": 45.4852944,
+    "lon": 9.1942831,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307978025,
+    "lat": 45.4853284,
+    "lon": 9.1942184,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307978027,
+    "lat": 45.4853737,
+    "lon": 9.1941194,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307979783,
+    "lat": 45.485419,
+    "lon": 9.1941651,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3307980062,
+    "lat": 45.4856161,
+    "lon": 9.1942569,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3308376662,
+    "lat": 45.4801775,
+    "lon": 9.1933459,
+    "keyType": "amenity",
+    "keyValue": "clock"
+  },
+  {
+    "type": "node",
+    "id": 3308376663,
+    "lat": 45.4802301,
+    "lon": 9.1928909,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3308376664,
+    "lat": 45.4802443,
+    "lon": 9.1928962,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3308376665,
+    "lat": 45.4802283,
+    "lon": 9.1933363,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 3308376666,
+    "lat": 45.4802571,
+    "lon": 9.192901,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3409348883,
+    "lat": 45.4810268,
+    "lon": 9.1928825,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409367202,
+    "lat": 45.4799958,
+    "lon": 9.1937768,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3409367216,
+    "lat": 45.4803841,
+    "lon": 9.1924722,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3409367220,
+    "lat": 45.4805141,
+    "lon": 9.1927728,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409367309,
+    "lat": 45.4801812,
+    "lon": 9.1931708,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3409367323,
+    "lat": 45.4805834,
+    "lon": 9.1927876,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409367324,
+    "lat": 45.4806488,
+    "lon": 9.1928016,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409367333,
+    "lat": 45.4808642,
+    "lon": 9.1928477,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409367336,
+    "lat": 45.4809739,
+    "lon": 9.1931064,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3409368143,
+    "lat": 45.4807284,
+    "lon": 9.1928187,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409368144,
+    "lat": 45.4807925,
+    "lon": 9.1928324,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409368146,
+    "lat": 45.4809601,
+    "lon": 9.1928682,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409409849,
+    "lat": 45.480008,
+    "lon": 9.1921662,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409410265,
+    "lat": 45.4801832,
+    "lon": 9.191569,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409414812,
+    "lat": 45.4801041,
+    "lon": 9.1921844,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409414813,
+    "lat": 45.4801789,
+    "lon": 9.1916817,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409414814,
+    "lat": 45.4801896,
+    "lon": 9.1922058,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409414815,
+    "lat": 45.480228,
+    "lon": 9.1909109,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409414827,
+    "lat": 45.4806128,
+    "lon": 9.1922687,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409415883,
+    "lat": 45.4799055,
+    "lon": 9.1921418,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409415884,
+    "lat": 45.4802879,
+    "lon": 9.1915995,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409416170,
+    "lat": 45.4802152,
+    "lon": 9.1910511,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3409416450,
+    "lat": 45.4802665,
+    "lon": 9.1917274,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448550162,
+    "lat": 45.4804457,
+    "lon": 9.192291,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 3448550215,
+    "lat": 45.4805584,
+    "lon": 9.1914793,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 3448551058,
+    "lat": 45.4795737,
+    "lon": 9.1935274,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448551061,
+    "lat": 45.4795806,
+    "lon": 9.1934472,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448551062,
+    "lat": 45.4795819,
+    "lon": 9.1933063,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448551504,
+    "lat": 45.479538,
+    "lon": 9.1931263,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448553645,
+    "lat": 45.4799546,
+    "lon": 9.1917974,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448553646,
+    "lat": 45.4799558,
+    "lon": 9.1921767,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3448553650,
+    "lat": 45.4802468,
+    "lon": 9.1919128,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448554442,
+    "lat": 45.4796958,
+    "lon": 9.1932848,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448554444,
+    "lat": 45.4797068,
+    "lon": 9.1931263,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448554451,
+    "lat": 45.4797383,
+    "lon": 9.1927893,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3448554455,
+    "lat": 45.4797649,
+    "lon": 9.1919619,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3448554457,
+    "lat": 45.4797828,
+    "lon": 9.1928182,
+    "keyType": "amenity",
+    "keyValue": "telephone"
+  },
+  {
+    "type": "node",
+    "id": 3448554458,
+    "lat": 45.4797952,
+    "lon": 9.1930198,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448554461,
+    "lat": 45.4798234,
+    "lon": 9.1930369,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3448554462,
+    "lat": 45.479864,
+    "lon": 9.193041,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3448554464,
+    "lat": 45.4799006,
+    "lon": 9.1930515,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3448554468,
+    "lat": 45.4799645,
+    "lon": 9.1930658,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3448554473,
+    "lat": 45.4799905,
+    "lon": 9.1930598,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448554474,
+    "lat": 45.4800003,
+    "lon": 9.1921932,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3448554476,
+    "lat": 45.4800128,
+    "lon": 9.1930782,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3448554477,
+    "lat": 45.4800205,
+    "lon": 9.1913376,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448554480,
+    "lat": 45.4800456,
+    "lon": 9.1930694,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448554485,
+    "lat": 45.4800791,
+    "lon": 9.1922122,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3448554491,
+    "lat": 45.4801103,
+    "lon": 9.1931033,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3448554492,
+    "lat": 45.4801172,
+    "lon": 9.1922277,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3448554995,
+    "lat": 45.4796478,
+    "lon": 9.1936429,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448555004,
+    "lat": 45.480323,
+    "lon": 9.1924555,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3448555005,
+    "lat": 45.4803987,
+    "lon": 9.19288,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3448556499,
+    "lat": 45.4801675,
+    "lon": 9.1922456,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3448556502,
+    "lat": 45.4802361,
+    "lon": 9.1926549,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3448556504,
+    "lat": 45.4802825,
+    "lon": 9.1920713,
+    "keyType": "amenity",
+    "keyValue": "vending_machine"
+  },
+  {
+    "type": "node",
+    "id": 3448556505,
+    "lat": 45.4802935,
+    "lon": 9.1914843,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3448556506,
+    "lat": 45.4802965,
+    "lon": 9.1924482,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3448556507,
+    "lat": 45.4803091,
+    "lon": 9.1924516,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3448556508,
+    "lat": 45.4803231,
+    "lon": 9.1916747,
+    "keyType": "barrier",
+    "keyValue": "entrance"
+  },
+  {
+    "type": "node",
+    "id": 3448556509,
+    "lat": 45.4803278,
+    "lon": 9.1917269,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3450917846,
+    "lat": 45.4851259,
+    "lon": 9.1933708,
+    "keyType": "barrier",
+    "keyValue": "gate"
+  },
+  {
+    "type": "node",
+    "id": 3461532738,
+    "lat": 45.4844574,
+    "lon": 9.1925893,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3461532739,
+    "lat": 45.4845173,
+    "lon": 9.1926677,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3461532740,
+    "lat": 45.4845373,
+    "lon": 9.1927942,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3461532741,
+    "lat": 45.4843362,
+    "lon": 9.1926481,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3461532742,
+    "lat": 45.4843387,
+    "lon": 9.192812,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3461532743,
+    "lat": 45.4844336,
+    "lon": 9.1929065,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3476597030,
+    "lat": 45.4812982,
+    "lon": 9.1967553,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3476597037,
+    "lat": 45.4812143,
+    "lon": 9.1966102,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3476597038,
+    "lat": 45.4830926,
+    "lon": 9.1935375,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 3479398728,
+    "lat": 45.4844573,
+    "lon": 9.1952016,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3479398729,
+    "lat": 45.4845227,
+    "lon": 9.1952699,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3479398730,
+    "lat": 45.4845262,
+    "lon": 9.1951656,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3479398731,
+    "lat": 45.4845967,
+    "lon": 9.1950516,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3479398732,
+    "lat": 45.4846066,
+    "lon": 9.1953724,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3521820094,
+    "lat": 45.4797514,
+    "lon": 9.1944548,
+    "keyType": "amenity",
+    "keyValue": "bank"
+  },
+  {
+    "type": "node",
+    "id": 3521852490,
+    "lat": 45.4797171,
+    "lon": 9.1946928,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3521852509,
+    "lat": 45.4798714,
+    "lon": 9.1950151,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3521852518,
+    "lat": 45.4799948,
+    "lon": 9.195331,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3521852523,
+    "lat": 45.4800742,
+    "lon": 9.1955023,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3521852531,
+    "lat": 45.4801458,
+    "lon": 9.1956548,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3521852553,
+    "lat": 45.4803078,
+    "lon": 9.1960101,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3521852565,
+    "lat": 45.4803805,
+    "lon": 9.1961641,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3521852567,
+    "lat": 45.4803998,
+    "lon": 9.1958992,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3521852569,
+    "lat": 45.4804037,
+    "lon": 9.1963716,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3521852578,
+    "lat": 45.4804379,
+    "lon": 9.1964533,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3521852597,
+    "lat": 45.4805268,
+    "lon": 9.1962962,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3539682594,
+    "lat": 45.4846802,
+    "lon": 9.1950191,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3539682596,
+    "lat": 45.4847561,
+    "lon": 9.1951168,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 3675021940,
+    "lat": 45.4818339,
+    "lon": 9.1886288,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799689796,
+    "lat": 45.4806739,
+    "lon": 9.1956071,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799689800,
+    "lat": 45.4808409,
+    "lon": 9.1959159,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799689801,
+    "lat": 45.4808483,
+    "lon": 9.196204,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 3799689802,
+    "lat": 45.480859,
+    "lon": 9.1965692,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799689804,
+    "lat": 45.4808897,
+    "lon": 9.1961351,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799689806,
+    "lat": 45.4808989,
+    "lon": 9.1967261,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799689808,
+    "lat": 45.4809278,
+    "lon": 9.1960477,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799689809,
+    "lat": 45.4809299,
+    "lon": 9.1964027,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799690276,
+    "lat": 45.4806682,
+    "lon": 9.1954787,
+    "keyType": "amenity",
+    "keyValue": "parking"
+  },
+  {
+    "type": "node",
+    "id": 3799691191,
+    "lat": 45.4813744,
+    "lon": 9.1944948,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799691196,
+    "lat": 45.4815166,
+    "lon": 9.1942482,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799691197,
+    "lat": 45.4815659,
+    "lon": 9.1940655,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799691236,
+    "lat": 45.4820328,
+    "lon": 9.1934199,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799691239,
+    "lat": 45.4820766,
+    "lon": 9.1934524,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799691240,
+    "lat": 45.482093,
+    "lon": 9.1931727,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799691683,
+    "lat": 45.4806968,
+    "lon": 9.1959497,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799691684,
+    "lat": 45.4807024,
+    "lon": 9.1965095,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3799691690,
+    "lat": 45.4807352,
+    "lon": 9.1964708,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799691692,
+    "lat": 45.4807448,
+    "lon": 9.1966727,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799691712,
+    "lat": 45.4812786,
+    "lon": 9.1947108,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799691713,
+    "lat": 45.4812911,
+    "lon": 9.1953063,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799691714,
+    "lat": 45.4813061,
+    "lon": 9.1952574,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 3799691715,
+    "lat": 45.4813279,
+    "lon": 9.1952244,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799691717,
+    "lat": 45.481354,
+    "lon": 9.1946061,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799691733,
+    "lat": 45.4816232,
+    "lon": 9.1941528,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3799691932,
+    "lat": 45.4807395,
+    "lon": 9.1956669,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692023,
+    "lat": 45.4805928,
+    "lon": 9.19602,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799692305,
+    "lat": 45.4807479,
+    "lon": 9.1960863,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799692306,
+    "lat": 45.4807514,
+    "lon": 9.1955524,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692308,
+    "lat": 45.4808145,
+    "lon": 9.1962969,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799692336,
+    "lat": 45.480963,
+    "lon": 9.195395,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692337,
+    "lat": 45.4809703,
+    "lon": 9.1953417,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692341,
+    "lat": 45.4810332,
+    "lon": 9.1954653,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692347,
+    "lat": 45.4810586,
+    "lon": 9.1958208,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799692348,
+    "lat": 45.4810597,
+    "lon": 9.1951947,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692352,
+    "lat": 45.4811238,
+    "lon": 9.1956921,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 3799692356,
+    "lat": 45.4812394,
+    "lon": 9.194794,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692525,
+    "lat": 45.4809256,
+    "lon": 9.1954393,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692526,
+    "lat": 45.4811071,
+    "lon": 9.1950503,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692528,
+    "lat": 45.4811105,
+    "lon": 9.1951257,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799692531,
+    "lat": 45.4817007,
+    "lon": 9.1944352,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799692711,
+    "lat": 45.4810743,
+    "lon": 9.1951296,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692712,
+    "lat": 45.4811072,
+    "lon": 9.195726,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799692713,
+    "lat": 45.4810892,
+    "lon": 9.1966552,
+    "keyType": "highway",
+    "keyValue": "street_lamp"
+  },
+  {
+    "type": "node",
+    "id": 3799692728,
+    "lat": 45.481126,
+    "lon": 9.1950906,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799692732,
+    "lat": 45.4812093,
+    "lon": 9.1948552,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692757,
+    "lat": 45.4812812,
+    "lon": 9.195346,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3799692760,
+    "lat": 45.4813695,
+    "lon": 9.194571,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799692874,
+    "lat": 45.481461,
+    "lon": 9.1943114,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692878,
+    "lat": 45.4815302,
+    "lon": 9.1942151,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799692879,
+    "lat": 45.4815467,
+    "lon": 9.1941175,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692880,
+    "lat": 45.4815822,
+    "lon": 9.1947069,
+    "keyType": "emergency",
+    "keyValue": "fire_hydrant"
+  },
+  {
+    "type": "node",
+    "id": 3799692881,
+    "lat": 45.4815942,
+    "lon": 9.1940187,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692882,
+    "lat": 45.4816079,
+    "lon": 9.1942151,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 3799692883,
+    "lat": 45.4816536,
+    "lon": 9.1945391,
+    "keyType": "amenity",
+    "keyValue": "bench"
+  },
+  {
+    "type": "node",
+    "id": 3799692884,
+    "lat": 45.4816561,
+    "lon": 9.193256,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3799692991,
+    "lat": 45.481708,
+    "lon": 9.1942894,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3799692992,
+    "lat": 45.4817363,
+    "lon": 9.1943797,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3799693766,
+    "lat": 45.4855266,
+    "lon": 9.1907538,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3799693768,
+    "lat": 45.4856232,
+    "lon": 9.1916602,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 3989817016,
+    "lat": 45.4856989,
+    "lon": 9.1920191,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 4028219023,
+    "lat": 45.4823995,
+    "lon": 9.1933805,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 4028219146,
+    "lat": 45.4820111,
+    "lon": 9.1928663,
+    "keyType": "amenity",
+    "keyValue": "restaurant"
+  },
+  {
+    "type": "node",
+    "id": 4225466422,
+    "lat": 45.4801647,
+    "lon": 9.193457,
+    "keyType": "amenity",
+    "keyValue": "pharmacy"
+  },
+  {
+    "type": "node",
+    "id": 4230457971,
+    "lat": 45.481143,
+    "lon": 9.1912737,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 4233660589,
+    "lat": 45.4802722,
+    "lon": 9.1958838,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 4233660604,
+    "lat": 45.4816521,
+    "lon": 9.1926455,
+    "keyType": "barrier",
+    "keyValue": "bollard"
+  },
+  {
+    "type": "node",
+    "id": 4233660608,
+    "lat": 45.4816881,
+    "lon": 9.1925694,
+    "keyType": "barrier",
+    "keyValue": "bollard"
+  },
+  {
+    "type": "node",
+    "id": 4233660624,
+    "lat": 45.4818848,
+    "lon": 9.192398,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 4233660630,
+    "lat": 45.4819349,
+    "lon": 9.1924447,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 4233660631,
+    "lat": 45.481949,
+    "lon": 9.1922987,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 4233660634,
+    "lat": 45.4820348,
+    "lon": 9.1922183,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 4233660635,
+    "lat": 45.4820948,
+    "lon": 9.1921146,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 4233660637,
+    "lat": 45.48269,
+    "lon": 9.1934695,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 4233660638,
+    "lat": 45.4827873,
+    "lon": 9.1928659,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 4233687039,
+    "lat": 45.4819845,
+    "lon": 9.194821,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 4233687064,
+    "lat": 45.4823567,
+    "lon": 9.1940819,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 4304781656,
+    "lat": 45.4833632,
+    "lon": 9.1907063,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 4304781845,
+    "lat": 45.4832466,
+    "lon": 9.1904341,
+    "keyType": "amenity",
+    "keyValue": "waste_basket"
+  },
+  {
+    "type": "node",
+    "id": 4340767294,
+    "lat": 45.4817075,
+    "lon": 9.1945343,
+    "keyType": "emergency",
+    "keyValue": "defibrillator"
+  },
+  {
+    "type": "node",
+    "id": 4349756634,
+    "lat": 45.4816229,
+    "lon": 9.1894935,
+    "keyType": "highway",
+    "keyValue": "give_way"
+  },
+  {
+    "type": "node",
+    "id": 4349756639,
+    "lat": 45.4817058,
+    "lon": 9.1893885,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 4349756644,
+    "lat": 45.4822373,
+    "lon": 9.1895565,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 4349756649,
+    "lat": 45.4822468,
+    "lon": 9.1894683,
+    "keyType": "highway",
+    "keyValue": "crossing"
+  },
+  {
+    "type": "node",
+    "id": 4350550982,
+    "lat": 45.4808627,
+    "lon": 9.1896957,
+    "keyType": "barrier",
+    "keyValue": "gate"
+  },
+  {
+    "type": "node",
+    "id": 4350551696,
+    "lat": 45.4810097,
+    "lon": 9.1897757,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 4350551701,
+    "lat": 45.4810551,
+    "lon": 9.1901489,
+    "keyType": "amenity",
+    "keyValue": "parking_entrance"
+  },
+  {
+    "type": "node",
+    "id": 4350551709,
+    "lat": 45.4811564,
+    "lon": 9.1902622,
+    "keyType": "barrier",
+    "keyValue": "lift_gate"
+  },
+  {
+    "type": "node",
+    "id": 4350551716,
+    "lat": 45.481251,
+    "lon": 9.1900977,
+    "keyType": "barrier",
+    "keyValue": "gate"
+  },
+  {
+    "type": "node",
+    "id": 4350551718,
+    "lat": 45.4812775,
+    "lon": 9.1903126,
+    "keyType": "barrier",
+    "keyValue": "gate"
+  },
+  {
+    "type": "node",
+    "id": 4350551719,
+    "lat": 45.4813217,
+    "lon": 9.190279,
+    "keyType": "natural",
+    "keyValue": "tree"
+  },
+  {
+    "type": "node",
+    "id": 4449004403,
+    "lat": 45.4801057,
+    "lon": 9.1935811,
+    "keyType": "amenity",
+    "keyValue": "pub"
+  }
+]

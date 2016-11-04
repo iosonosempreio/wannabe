@@ -1,0 +1,13 @@
+{
+  "highway": 456,
+  "amenity": 455,
+  "barrier": 106,
+  "railway": 31,
+  "historic": 14,
+  "man_made": 12,
+  "office": 17,
+  "natural": 231,
+  "leisure": 5,
+  "emergency": 5,
+  "craft": 1
+}

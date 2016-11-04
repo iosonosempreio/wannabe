@@ -1,0 +1,15 @@
+{
+  "name": "poi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "filter_nodes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^3.7.1",
+    "lodash": "^4.16.6"
+  }
+}

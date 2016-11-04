@@ -1,0 +1,11 @@
+{
+  "barrier": 16,
+  "highway": 120,
+  "amenity": 114,
+  "railway": 21,
+  "man_made": 1,
+  "natural": 29,
+  "historic": 1,
+  "leisure": 3,
+  "office": 1
+}

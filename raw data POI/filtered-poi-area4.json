@@ -1,0 +1,4427 @@
+[
+  {
+    "type": "node",
+    "id": 21663235,
+    "lat": 45.4501282,
+    "lon": 9.175391,
+    "tags": {
+      "access": "no",
+      "barrier": "lift_gate",
+      "bicycle": "yes",
+      "foot": "yes",
+      "horse": "yes",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 260020848,
+    "lat": 45.4536367,
+    "lon": 9.1769229,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 262505336,
+    "lat": 45.4522177,
+    "lon": 9.1818978,
+    "tags": {
+      "comment": "a traffic light stop all trafics when a tram has to turn from via Custoldi to the right into via Col di Lana"
+    }
+  },
+  {
+    "type": "node",
+    "id": 282179000,
+    "lat": 45.453149,
+    "lon": 9.1796146,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Panino Giusto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 282179866,
+    "lat": 45.4523725,
+    "lon": 9.1811993,
+    "tags": {
+      "amenity": "bank",
+      "atm": "yes",
+      "name": "BCC Banca Credito Cooperativo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 301979316,
+    "lat": 45.4518459,
+    "lon": 9.17768,
+    "tags": {
+      "amenity": "pub",
+      "name": "Le Fontanelle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 301979318,
+    "lat": 45.4520568,
+    "lon": 9.1752912,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "pizza",
+      "name": "Officina 12"
+    }
+  },
+  {
+    "type": "node",
+    "id": 316535144,
+    "lat": 45.4558105,
+    "lon": 9.1728029,
+    "tags": {
+      "amenity": "bicycle_rental",
+      "capacity": "24",
+      "operator": "BikeMi",
+      "ref": "15"
+    }
+  },
+  {
+    "type": "node",
+    "id": 316535175,
+    "lat": 45.4523315,
+    "lon": 9.1774633,
+    "tags": {
+      "amenity": "bicycle_rental",
+      "capacity": "24",
+      "note": "attenzione: esistono DUE stalli a breve distanza. Non è un errore. Non cancellare",
+      "operator": "BikeMi",
+      "ref": "47",
+      "website": "www.bikemi.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 347614212,
+    "lat": 45.4527539,
+    "lon": 9.1744644,
+    "tags": {
+      "fixme": "check if it is still open",
+      "name": "Silvestrini",
+      "second_hand": "yes",
+      "service:bicycle:repair": "yes",
+      "service:bicycle:retail": "yes",
+      "service:bicycle:second_hand": "yes",
+      "shop": "bicycle",
+      "website": "http://silvestrinibiciclette.it"
+    }
+  },
+  {
+    "type": "node",
+    "id": 382968797,
+    "lat": 45.4545044,
+    "lon": 9.1733062,
+    "tags": {
+      "amenity": "post_box",
+      "name": "Milano 7",
+      "operator": "Poste Italiane",
+      "postal_code": "20144"
+    }
+  },
+  {
+    "type": "node",
+    "id": 408783075,
+    "lat": 45.4560845,
+    "lon": 9.1740986,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "29",
+      "addr:postcode": "20123",
+      "addr:street": "Corso Genova"
+    }
+  },
+  {
+    "type": "node",
+    "id": 408783077,
+    "lat": 45.4563007,
+    "lon": 9.1744387,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "25",
+      "addr:postcode": "20123",
+      "addr:street": "Corso Genova"
+    }
+  },
+  {
+    "type": "node",
+    "id": 408783078,
+    "lat": 45.4565324,
+    "lon": 9.1747637,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "23",
+      "addr:postcode": "20123",
+      "addr:street": "Corso Genova"
+    }
+  },
+  {
+    "type": "node",
+    "id": 408783079,
+    "lat": 45.456707,
+    "lon": 9.1750727,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "21",
+      "addr:postcode": "20123",
+      "addr:street": "Corso Genova"
+    }
+  },
+  {
+    "type": "node",
+    "id": 408783080,
+    "lat": 45.4568575,
+    "lon": 9.1752873,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "19",
+      "addr:postcode": "20123",
+      "addr:street": "Corso Genova"
+    }
+  },
+  {
+    "type": "node",
+    "id": 408783081,
+    "lat": 45.457014,
+    "lon": 9.1754847,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "17",
+      "addr:postcode": "20123",
+      "addr:street": "Corso Genova"
+    }
+  },
+  {
+    "type": "node",
+    "id": 418142028,
+    "lat": 45.4520962,
+    "lon": 9.1813766,
+    "tags": {
+      "amenity": "bank",
+      "name": "Monte dei Paschi di Siena"
+    }
+  },
+  {
+    "type": "node",
+    "id": 418358423,
+    "lat": 45.4516539,
+    "lon": 9.1811469,
+    "tags": {
+      "amenity": "parking",
+      "fee": "yes",
+      "name": "Gran garage"
+    }
+  },
+  {
+    "type": "node",
+    "id": 418358622,
+    "lat": 45.4519144,
+    "lon": 9.1802645,
+    "tags": {
+      "amenity": "bank",
+      "name": "Intesa San Paolo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 422556707,
+    "lat": 45.4549165,
+    "lon": 9.172425,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "3",
+      "addr:postcode": "20144",
+      "addr:street": "Corso Cristoforo Colombo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 422556708,
+    "lat": 45.4547178,
+    "lon": 9.1722276,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "5",
+      "addr:postcode": "20144",
+      "addr:street": "Corso Cristoforo Colombo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 439209165,
+    "lat": 45.4551612,
+    "lon": 9.1768476,
+    "tags": {
+      "amenity": "theatre",
+      "name": "Teatro i"
+    }
+  },
+  {
+    "type": "node",
+    "id": 471169804,
+    "lat": 45.4502763,
+    "lon": 9.175625,
+    "tags": {
+      "automatic": "yes",
+      "barrier": "bollard",
+      "bicycle": "yes",
+      "foot": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 478775435,
+    "lat": 45.4519031,
+    "lon": 9.1799627,
+    "tags": {
+      "amenity": "bank",
+      "name": "Unicredit Banca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 538903511,
+    "lat": 45.4489995,
+    "lon": 9.17756,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "german",
+      "name": "Kapuziner"
+    }
+  },
+  {
+    "type": "node",
+    "id": 559767587,
+    "lat": 45.4548546,
+    "lon": 9.1769633,
+    "tags": {
+      "barrier": "bollard",
+      "foot": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 582643419,
+    "lat": 45.4546499,
+    "lon": 9.1780776,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 587021322,
+    "lat": 45.4540136,
+    "lon": 9.1744335,
+    "tags": {
+      "amenity": "drinking_water"
+    }
+  },
+  {
+    "type": "node",
+    "id": 590968999,
+    "lat": 45.455747,
+    "lon": 9.1731751,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 611595906,
+    "lat": 45.4490234,
+    "lon": 9.1801358,
+    "tags": {
+      "addr:housenumber": "29",
+      "addr:postcode": "20136",
+      "addr:street": "Corso San Gottardo",
+      "contact:phone": "+39 02 89404979",
+      "contact:website": "http://www.simplymarket.it/pdv.php?id=1070",
+      "level": "-1",
+      "name": "Simply",
+      "old_name": "Punto SMA",
+      "operator": "SAM S.p.A.",
+      "ref:vatin": "IT08970540152",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 611595966,
+    "lat": 45.451695,
+    "lon": 9.180293,
+    "tags": {
+      "amenity": "pharmacy"
+    }
+  },
+  {
+    "type": "node",
+    "id": 661079590,
+    "lat": 45.4506491,
+    "lon": 9.1780013,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "9",
+      "addr:street": "Via Ascanio Sforza"
+    }
+  },
+  {
+    "type": "node",
+    "id": 661079651,
+    "lat": 45.4507319,
+    "lon": 9.1780228,
+    "tags": {
+      "addr:housenumber": "9",
+      "addr:postcode": "20136",
+      "addr:street": "Via Ascanio Sforza",
+      "amenity": "pub",
+      "name": "Slice Cafè",
+      "opening_hours": "Mo-Su 18:00-02:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 661556391,
+    "lat": 45.4553078,
+    "lon": 9.172684,
+    "tags": {
+      "bench": "no",
+      "name": "Piazzale Cantore",
+      "public_transport": "stop_position",
+      "ref": "11194",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 662838605,
+    "lat": 45.4520811,
+    "lon": 9.1776263,
+    "tags": {
+      "amenity": "pub",
+      "name": "il Coccio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 746951476,
+    "lat": 45.451319,
+    "lon": 9.1776773,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Burgerama"
+    }
+  },
+  {
+    "type": "node",
+    "id": 746952033,
+    "lat": 45.4532362,
+    "lon": 9.1751395,
+    "tags": {
+      "amenity": "pub",
+      "name": "Red Dragon"
+    }
+  },
+  {
+    "type": "node",
+    "id": 933825938,
+    "lat": 45.4520204,
+    "lon": 9.1749768,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Il Brellin"
+    }
+  },
+  {
+    "type": "node",
+    "id": 998207244,
+    "lat": 45.4570439,
+    "lon": 9.1752912,
+    "tags": {
+      "name": "Corso Genova - Via Ariberto",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11220",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1028305110,
+    "lat": 45.4518069,
+    "lon": 9.1801146,
+    "tags": {
+      "name": "Piazza 24 maggio",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11443",
+      "shelter": "yes",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1028305140,
+    "lat": 45.4549298,
+    "lon": 9.1721976,
+    "tags": {
+      "bench": "no",
+      "covered": "no",
+      "name": "Corso Colombo - Piazzale Cantore",
+      "passenger_information_display": "no",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11193",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1028305147,
+    "lat": 45.4553564,
+    "lon": 9.1720539,
+    "tags": {
+      "bench": "yes",
+      "name": "Piazzale Cantore",
+      "old_name": "Viale Coni Zugna - Corso Colombo",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11187",
+      "shelter": "yes",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1028305215,
+    "lat": 45.4528161,
+    "lon": 9.1755882,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name": "Via Vigevano - Viale Gorizia",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11198",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1028444145,
+    "lat": 45.452664,
+    "lon": 9.1762942,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Via Vigevano - Viale Gorizia",
+      "old_name": "Viale Gorizia - Via Vigevano",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11199",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1028634703,
+    "lat": 45.4497684,
+    "lon": 9.1811456,
+    "tags": {
+      "noexit": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1028634716,
+    "lat": 45.4506479,
+    "lon": 9.1798279,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:postcode": "20136",
+      "addr:street": "Corso San Gottardo",
+      "name": "Delicatessen",
+      "shop": "deli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1028634726,
+    "lat": 45.448922,
+    "lon": 9.1795627,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Via Giuseppe Lagrange",
+      "amenity": "pharmacy",
+      "contact:phone": "+39 02 58100878",
+      "name": "Farmacia del Gentilino",
+      "ref:vatin": "IT06819600963"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1056245362,
+    "lat": 45.4527034,
+    "lon": 9.1802309,
+    "tags": {
+      "name": "Porta Ticinese",
+      "name:lmo": "Porta Ticines",
+      "old_name": "Porta Cicca",
+      "old_name:lmo": "Porta Cicca",
+      "place": "suburb"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1056386098,
+    "lat": 45.4500423,
+    "lon": 9.1754638,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "15",
+      "addr:postcode": "20143",
+      "addr:street": "Via Magolfa",
+      "amenity": "restaurant",
+      "contact:facebook": "https://www.facebook.com/pages/La-Magolfa-Pizzeria-Navigli/130610747070343",
+      "contact:phone": "+39 02 8321696",
+      "contact:tripadvisor": "https://www.tripadvisor.it/Restaurant_Review-g187849-d1100325-Reviews-La_Magolfa-Milan_Lombardy.html",
+      "contact:website": "http://www.lamagolfa.it/",
+      "contact:yelp": "http://www.yelp.com/biz/la-magolfa-milano",
+      "cuisine": "pizza",
+      "name": "La Magolfa",
+      "opening_hours": "Mo-Su 12:00-14:30, 19:00-00:30",
+      "ref:vatin": "IT03615810961",
+      "smoking": "outside",
+      "takeaway": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1127835666,
+    "lat": 45.4489673,
+    "lon": 9.1774537,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1281204216,
+    "lat": 45.4529915,
+    "lon": 9.1733035,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1281204220,
+    "lat": 45.4531695,
+    "lon": 9.1721023,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1417190281,
+    "lat": 45.4490899,
+    "lon": 9.1816942,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1476642467,
+    "lat": 45.4531906,
+    "lon": 9.1802705,
+    "tags": {
+      "bench": "no",
+      "comment": "fermata soppressa da 16/3/2014",
+      "name": "Piazza 24 maggio",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11445",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1477723509,
+    "lat": 45.4491339,
+    "lon": 9.1796922,
+    "tags": {
+      "bench": "yes",
+      "highway": "bus_stop",
+      "name": "Corso San Gottardo - Via Lagrange",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11442",
+      "shelter": "yes",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1477725261,
+    "lat": 45.4491607,
+    "lon": 9.1799722,
+    "tags": {
+      "name": "Upim",
+      "shop": "clothes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1477731020,
+    "lat": 45.4522924,
+    "lon": 9.1807171,
+    "tags": {
+      "comment:it": "scambio elettrificato a lancio di corrente (bloccato)",
+      "railway": "switch",
+      "ref": "133"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1477734130,
+    "lat": 45.4521664,
+    "lon": 9.1802014,
+    "tags": {
+      "comment:it": "scambio elettrificato a lancio di corrente (bloccato)",
+      "railway": "switch",
+      "ref": "19"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1477738006,
+    "lat": 45.4523271,
+    "lon": 9.1798703,
+    "tags": {
+      "comment:it": "scambio elettrificato a lancio di corrente (in uso)",
+      "railway": "switch",
+      "ref": "164"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1477738048,
+    "lat": 45.4523401,
+    "lon": 9.1787681,
+    "tags": {
+      "comment:it": "scambio a radiofrequenza (in uso) con segnale (lanterne) indicatrici di direzione",
+      "railway": "switch",
+      "ref": "270"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1489458759,
+    "lat": 45.4544441,
+    "lon": 9.1733547,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1489458760,
+    "lat": 45.4545087,
+    "lon": 9.1733705,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1489473346,
+    "lat": 45.451407,
+    "lon": 9.1777205,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1489477368,
+    "lat": 45.4512067,
+    "lon": 9.1780705,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1494265123,
+    "lat": 45.4489131,
+    "lon": 9.179719,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1494265126,
+    "lat": 45.4489104,
+    "lon": 9.1796595,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1494695336,
+    "lat": 45.4489033,
+    "lon": 9.175305,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1499776830,
+    "lat": 45.4498954,
+    "lon": 9.1754295,
+    "tags": {
+      "addr:housenumber": "15",
+      "addr:street": "Via Magolfa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1502798947,
+    "lat": 45.4527449,
+    "lon": 9.176164,
+    "tags": {
+      "comment:it": "scambio elettrificato a radiofrequenza (in uso)",
+      "railway": "switch",
+      "ref": "93"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1502802078,
+    "lat": 45.4530395,
+    "lon": 9.1734874,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Via Vigevano - Via Corsico",
+      "ref": "11190",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1502813922,
+    "lat": 45.4552779,
+    "lon": 9.1721908,
+    "tags": {
+      "comment:it": "scambio elettrificato a lancio di corrente (in uso)",
+      "railway": "switch",
+      "ref": "154"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1502813926,
+    "lat": 45.4549471,
+    "lon": 9.1722221,
+    "tags": {
+      "comment:it": "scambio elettrificato a lancio di corrente (in uso)",
+      "railway": "switch",
+      "ref": "94"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1502816344,
+    "lat": 45.4552196,
+    "lon": 9.1725525,
+    "tags": {
+      "comment:it": "scambio elettrificato a lancio di corrente (in uso)",
+      "railway": "switch",
+      "ref": "158"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1530058112,
+    "lat": 45.4564326,
+    "lon": 9.174525,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1530058133,
+    "lat": 45.4566814,
+    "lon": 9.1762002,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1530058197,
+    "lat": 45.4571614,
+    "lon": 9.1756013,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1530212249,
+    "lat": 45.4554953,
+    "lon": 9.1758151,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1530212251,
+    "lat": 45.4554797,
+    "lon": 9.1759077,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1530212256,
+    "lat": 45.4555659,
+    "lon": 9.1759182,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1530212258,
+    "lat": 45.455554,
+    "lon": 9.1757996,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1530212260,
+    "lat": 45.4555676,
+    "lon": 9.1779149,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1530212267,
+    "lat": 45.4558228,
+    "lon": 9.1774173,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1566286256,
+    "lat": 45.4559321,
+    "lon": 9.1727048,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Piazzale Cantore",
+      "public_transport": "platform",
+      "ref": "11197",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1566286258,
+    "lat": 45.4559935,
+    "lon": 9.1727525,
+    "tags": {
+      "bench": "no",
+      "highway": "bus_stop",
+      "name": "Piazzale Cantore",
+      "note": "stop number (ref) not shown on pole",
+      "ref": "11195",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1566288717,
+    "lat": 45.4551808,
+    "lon": 9.1727649,
+    "tags": {
+      "amenity": "pharmacy",
+      "dispensing": "yes",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1625998401,
+    "lat": 45.4521106,
+    "lon": 9.1832255,
+    "tags": {
+      "bench": "no",
+      "name": "Viale Col di Lana",
+      "old_name": "Via Col di Lana - Via Cosseria",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11452",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1718051252,
+    "lat": 45.4524926,
+    "lon": 9.184383,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1718051255,
+    "lat": 45.4525883,
+    "lon": 9.1843454,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1730563130,
+    "lat": 45.4550308,
+    "lon": 9.172644,
+    "tags": {
+      "bench": "no",
+      "name": "Piazzale Cantore",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11192",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1735143508,
+    "lat": 45.4521422,
+    "lon": 9.177682,
+    "tags": {
+      "name": "Il Forno dei Navigli",
+      "shop": "bakery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1739200221,
+    "lat": 45.4510171,
+    "lon": 9.1782358,
+    "tags": {
+      "height": "114",
+      "man_made": "tower",
+      "tower:type": "communication"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1757298675,
+    "lat": 45.4555853,
+    "lon": 9.172957,
+    "tags": {
+      "crossing": "uncontrolled",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1757298676,
+    "lat": 45.455986,
+    "lon": 9.1724053,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1836380545,
+    "lat": 45.4556588,
+    "lon": 9.1718201,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1842963938,
+    "lat": 45.4530731,
+    "lon": 9.1784437,
+    "tags": {
+      "crossing": "uncontrolled",
+      "crossing_ref": "zebra",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1842963943,
+    "lat": 45.4554269,
+    "lon": 9.1743406,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1853369351,
+    "lat": 45.4514641,
+    "lon": 9.1742677,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:street": "Via Filippo Argelati",
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Kawa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1858791599,
+    "lat": 45.4536981,
+    "lon": 9.1802815,
+    "tags": {
+      "amenity": "pharmacy",
+      "dispensing": "yes",
+      "name": "Farmacia Sant'Eustorgio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1935805149,
+    "lat": 45.4518083,
+    "lon": 9.1801013,
+    "tags": {
+      "bus": "yes",
+      "name": "Piazza 24 maggio",
+      "public_transport": "stop_position",
+      "ref": "11443",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1935805310,
+    "lat": 45.4489124,
+    "lon": 9.179688,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1935805343,
+    "lat": 45.4518046,
+    "lon": 9.1802164,
+    "tags": {
+      "amenity": "pharmacy",
+      "dispensing": "yes",
+      "fixme": "position approximate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1935856943,
+    "lat": 45.4557752,
+    "lon": 9.173407,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1935856946,
+    "lat": 45.4558922,
+    "lon": 9.1735728,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1938444175,
+    "lat": 45.4545159,
+    "lon": 9.1733859,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1938444180,
+    "lat": 45.4545278,
+    "lon": 9.1733982,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1942775844,
+    "lat": 45.4522723,
+    "lon": 9.1778973,
+    "tags": {
+      "barrier": "block",
+      "bicycle": "yes",
+      "description": "Telecamere rilevazione ingresso (solo residenti)",
+      "foot": "yes",
+      "horse": "yes",
+      "motor_vehicle": "permissive"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1942775847,
+    "lat": 45.4523112,
+    "lon": 9.1782898,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1957473688,
+    "lat": 45.4522182,
+    "lon": 9.1798488,
+    "tags": {
+      "denotation": "landmark",
+      "leaf_type": "broadleaved",
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1973121561,
+    "lat": 45.4523444,
+    "lon": 9.1773149,
+    "tags": {
+      "amenity": "bicycle_rental",
+      "capacity": "21",
+      "note": "attenzione: esistono DUE stalli a breve distanza. Non è un errore. Non cancellare",
+      "operator": "BikeMi",
+      "ref": "48",
+      "website": "www.bikemi.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2026210176,
+    "lat": 45.4516604,
+    "lon": 9.1789923,
+    "tags": {
+      "amenity": "parking_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2026210196,
+    "lat": 45.4519425,
+    "lon": 9.1801216,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2043090713,
+    "lat": 45.4520575,
+    "lon": 9.1801564,
+    "tags": {
+      "comment:it": "scambio elettrificato a lancio di corrente (???in uso/bloccato???)",
+      "railway": "switch"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2043090717,
+    "lat": 45.4523136,
+    "lon": 9.1804823,
+    "tags": {
+      "comment:it": "scambio elettrificato a lancio di corrente (bloccato)",
+      "railway": "switch",
+      "ref": "129"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2043132559,
+    "lat": 45.4553714,
+    "lon": 9.1772696,
+    "tags": {
+      "historic": "ruins"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098721,
+    "lat": 45.4553367,
+    "lon": 9.1759807,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "10",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098726,
+    "lat": 45.4562889,
+    "lon": 9.1767154,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "10",
+      "addr:street": "Via Marco d'Oggiono",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098736,
+    "lat": 45.4552019,
+    "lon": 9.1761535,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "12",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098741,
+    "lat": 45.4559866,
+    "lon": 9.1771719,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "12",
+      "addr:street": "Via Marco d'Oggiono",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098750,
+    "lat": 45.4550105,
+    "lon": 9.1764458,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "14",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098754,
+    "lat": 45.454955,
+    "lon": 9.1765459,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "16",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098758,
+    "lat": 45.4561954,
+    "lon": 9.1747179,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "2",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098759,
+    "lat": 45.4569292,
+    "lon": 9.175811,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "2",
+      "addr:street": "Via Marco d'Oggiono",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098769,
+    "lat": 45.456797,
+    "lon": 9.1759813,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "4",
+      "addr:street": "Via Marco d'Oggiono",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098773,
+    "lat": 45.4558805,
+    "lon": 9.1754995,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "5",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098787,
+    "lat": 45.4557706,
+    "lon": 9.1753655,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "6",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098791,
+    "lat": 45.4565221,
+    "lon": 9.1763599,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "6",
+      "addr:street": "Via Marco d'Oggiono",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098796,
+    "lat": 45.4557139,
+    "lon": 9.175724,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "7",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098810,
+    "lat": 45.4563898,
+    "lon": 9.1765517,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "8",
+      "addr:street": "Via Marco d'Oggiono",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098815,
+    "lat": 45.4554446,
+    "lon": 9.1761733,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "9",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098819,
+    "lat": 45.4552559,
+    "lon": 9.1764616,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "9A",
+      "addr:street": "Via Gaudenzio Ferrari",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098842,
+    "lat": 45.4563504,
+    "lon": 9.1744985,
+    "tags": {
+      "amenity": "bank"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2045098843,
+    "lat": 45.4564699,
+    "lon": 9.1746252,
+    "tags": {
+      "brand": "Limoni",
+      "shop": "perfume"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2072208567,
+    "lat": 45.4519633,
+    "lon": 9.1809122,
+    "tags": {
+      "amenity": "cafe",
+      "name": "Caffè Cherubini"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2072208572,
+    "lat": 45.4518758,
+    "lon": 9.1811763,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "1",
+      "addr:street": "Via Trincea delle Frasche",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2072208582,
+    "lat": 45.4519554,
+    "lon": 9.1811575,
+    "tags": {
+      "amenity": "restaurant",
+      "fixme": "Position approximative",
+      "name": "Tvoì Vuòla"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2072208585,
+    "lat": 45.4521251,
+    "lon": 9.1811457,
+    "tags": {
+      "name": "Viola",
+      "shop": "clothes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2072208588,
+    "lat": 45.4520385,
+    "lon": 9.1811368,
+    "tags": {
+      "fixme": "Position estimated",
+      "shop": "hairdresser"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2106340220,
+    "lat": 45.4547122,
+    "lon": 9.1719149,
+    "tags": {
+      "traffic_sign": "obbligo di passare a sinistra oppure a destra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2106369291,
+    "lat": 45.4560479,
+    "lon": 9.1739196,
+    "tags": {
+      "comment:it": "Zona a traffico limitato, divieto di transito, solo nei giorni feriali, Lun,mar,mer,ven  07:30-19:30; gio 07:30-18:00",
+      "comment:it:2": "divieto di transito ad autocarri trasporto merce lunghezza superiore a 7,5 m, veicoli a benzina EURO 0, veicoli a gasolio EURO 0, 1, 2, 3 eccetto autorizzati",
+      "comment:it:3": "accesso a pagamento eccetto taxi, tram, bus, bici, motcicli, ciclomotori, veicoi elettrici e autorizzati - controllo elettronico degli accessi",
+      "traffic_sign": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2157550543,
+    "lat": 45.4530753,
+    "lon": 9.1783637,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "stands",
+      "capacity": "10"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226705923,
+    "lat": 45.4502174,
+    "lon": 9.1779054,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Antica Osteria Briosca"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226705927,
+    "lat": 45.4500031,
+    "lon": 9.177841,
+    "tags": {
+      "amenity": "pub",
+      "name": "camillo's Pub"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226705932,
+    "lat": 45.4494762,
+    "lon": 9.1777176,
+    "tags": {
+      "amenity": "bar",
+      "name": "Paradice"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226705935,
+    "lat": 45.4492504,
+    "lon": 9.177664,
+    "tags": {
+      "amenity": "bar",
+      "name": "Apartment"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226705942,
+    "lat": 45.451531,
+    "lon": 9.1782109,
+    "tags": {
+      "amenity": "nightclub",
+      "name": "Roxanne"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226705947,
+    "lat": 45.4518697,
+    "lon": 9.1783772,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ciccio Pasticcio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226705957,
+    "lat": 45.4490319,
+    "lon": 9.1770927,
+    "tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226705962,
+    "lat": 45.4492053,
+    "lon": 9.1771597,
+    "tags": {
+      "amenity": "pub",
+      "name": "Ponte Vecchio Pub"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226725541,
+    "lat": 45.453119,
+    "lon": 9.1779373,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Caffè Viarenna"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226725543,
+    "lat": 45.4531115,
+    "lon": 9.1776369,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Panino Giusto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226725545,
+    "lat": 45.4533187,
+    "lon": 9.1771812,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Jin Zan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226725548,
+    "lat": 45.4534351,
+    "lon": 9.1770146,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "indian",
+      "name": "Garam Masala"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2226730513,
+    "lat": 45.4538005,
+    "lon": 9.1803024,
+    "tags": {
+      "name": "Wan Xiang",
+      "shop": "convenience"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2251203055,
+    "lat": 45.4527367,
+    "lon": 9.1748073,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "11",
+      "addr:street": "Via Vigevano",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2251203056,
+    "lat": 45.4543621,
+    "lon": 9.173176,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "2",
+      "addr:street": "Via Mortara",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2251203057,
+    "lat": 45.4542023,
+    "lon": 9.1730921,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "5",
+      "addr:street": "Via Mortara",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2251203058,
+    "lat": 45.4528551,
+    "lon": 9.1735685,
+    "tags": {
+      "addr:housenumber": "19",
+      "addr:street": "Via Vigevano",
+      "amenity": "school",
+      "name": "Scuola Primaria F. Conforti - B. Avogadro"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2258763089,
+    "lat": 45.4558655,
+    "lon": 9.1724252,
+    "tags": {
+      "amenity": "bicycle_parking",
+      "bicycle_parking": "stands",
+      "capacity": "10",
+      "fixme": "capacity approssimata"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460456,
+    "lat": 45.4517071,
+    "lon": 9.1754298,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Locandina dei Navili"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460457,
+    "lat": 45.4518784,
+    "lon": 9.1762102,
+    "tags": {
+      "amenity": "bar",
+      "name": "Spritz"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460458,
+    "lat": 45.4516939,
+    "lon": 9.1753762,
+    "tags": {
+      "addr:housenumber": "21",
+      "addr:street": "Ripa di Porta Ticinese"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460459,
+    "lat": 45.4520986,
+    "lon": 9.1772402,
+    "tags": {
+      "amenity": "pub",
+      "name": "La Ringhiera"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460460,
+    "lat": 45.451681,
+    "lon": 9.175274,
+    "tags": {
+      "addr:housenumber": "23",
+      "addr:street": "Ripa di Porta Ticinese"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460462,
+    "lat": 45.4516808,
+    "lon": 9.1753252,
+    "tags": {
+      "addr:housenumber": "23",
+      "addr:postcode": "20143",
+      "addr:street": "Ripa di Porta Ticinese",
+      "amenity": "bar",
+      "contact:phone": "+39 02 8357433",
+      "name": "Momo",
+      "operator": "Fusion s.r.l..s.",
+      "ref:vatin": "IT08778310964"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460463,
+    "lat": 45.4516676,
+    "lon": 9.1752314,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Ponte Rosso Trattoria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460464,
+    "lat": 45.4520609,
+    "lon": 9.177039,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pizzeria Tradzionale Trattoria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460787,
+    "lat": 45.4520497,
+    "lon": 9.1769802,
+    "tags": {
+      "addr:housenumber": "7",
+      "addr:street": "Ripa di Porta Ticinese"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2262460788,
+    "lat": 45.4520911,
+    "lon": 9.1771703,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:street": "Ripa di Porta Ticinese"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2312510063,
+    "lat": 45.451868,
+    "lon": 9.174682,
+    "tags": {
+      "addr:postcode": "20144",
+      "addr:street": "Vicolo Lavandai",
+      "amenity": "restaurant",
+      "cafe": "yes",
+      "contact:email": "info@brellin.com",
+      "contact:fax": "+39 02 89402700",
+      "contact:phone": "+39 02 58101351",
+      "contact:website": "http://www.brellin.com",
+      "name": "el Brellìn ristorante",
+      "opening_hours": "Mo-Su"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2312510064,
+    "lat": 45.4522867,
+    "lon": 9.1749856,
+    "tags": {
+      "addr:housenumber": "2/A",
+      "addr:street": "Vicolo Lavandai",
+      "name": "Kevin & Victory's Bakery",
+      "operator": "Franchising Milano - Navigli Red Velvet",
+      "ref:vatin": "IT08092220964",
+      "shop": "confectionery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2409087553,
+    "lat": 45.4507816,
+    "lon": 9.1775522,
+    "tags": {
+      "amenity": "bar",
+      "name": "Sitting Bull Pub",
+      "phone": "+39 348 3148001"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2476767200,
+    "lat": 45.4512412,
+    "lon": 9.1806439,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:street": "Corso San Gottardo",
+      "amenity": "school",
+      "description:en": "language school (English,Italian and other langages)",
+      "description:it": "Scuola di lingue straniere (Inglese, italianoed altre lingue)",
+      "fixme": "Position estimated",
+      "name": "Maka language consulting",
+      "website": "http://www.makaitalia.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2501679823,
+    "lat": 45.4512822,
+    "lon": 9.1801101,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:street": "Corso San Gottardo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2529853660,
+    "lat": 45.4535507,
+    "lon": 9.1802625,
+    "tags": {
+      "name": "CTS",
+      "shop": "travel_agency"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2529853661,
+    "lat": 45.4534966,
+    "lon": 9.1802544,
+    "tags": {
+      "addr:housenumber": "102",
+      "addr:street": "Corso di Porta Ticinese"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2529853662,
+    "lat": 45.4533891,
+    "lon": 9.1802138,
+    "tags": {
+      "addr:housenumber": "106",
+      "addr:street": "Corso di Porta Ticinese"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2529853664,
+    "lat": 45.453851,
+    "lon": 9.1803298,
+    "tags": {
+      "addr:housenumber": "98",
+      "addr:street": "Corso di Porta Ticinese"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2529864196,
+    "lat": 45.4531429,
+    "lon": 9.1791381,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Viale Gabriele d'Annunzio"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2529864207,
+    "lat": 45.4532774,
+    "lon": 9.1793448,
+    "tags": {
+      "amenity": "restaurant",
+      "description:it": "Bar e cucina naturale",
+      "name": "Mudra"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2529864215,
+    "lat": 45.4532998,
+    "lon": 9.1790549,
+    "tags": {
+      "name": "Residence The Yard",
+      "tourism": "hotel",
+      "website": "http://www.theyardmilano.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2529864224,
+    "lat": 45.4531534,
+    "lon": 9.1792279,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "burger",
+      "name": "Trita"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2547105462,
+    "lat": 45.4507731,
+    "lon": 9.1801013,
+    "tags": {
+      "addr:housenumber": "11",
+      "addr:street": "Corso San Gottardo",
+      "fixme": "Position estimated",
+      "name": "Square",
+      "ref:vatin": "IT04515440966",
+      "shop": "shoes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2552341804,
+    "lat": 45.456159,
+    "lon": 9.1742094,
+    "tags": {
+      "addr:housenumber": "27",
+      "addr:street": "Corso Genova",
+      "amenity": "pharmacy",
+      "contact:phone": "+39 02 89406979",
+      "dispensing": "yes",
+      "fixme": "Position estimated",
+      "name": "Farmacia Genova",
+      "operator": "Farmacia Genova s.a.s.",
+      "ref:vatin": "IT07210188969"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2552341806,
+    "lat": 45.4561877,
+    "lon": 9.1742594,
+    "tags": {
+      "addr:housenumber": "27",
+      "addr:street": "Corso Genova",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2569837468,
+    "lat": 45.4524335,
+    "lon": 9.1768736,
+    "tags": {
+      "fixme": "to be continued"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2575650566,
+    "lat": 45.4502548,
+    "lon": 9.1797527,
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:street": "Corso San Gottardo",
+      "contact:phone": "+39 02 8322649",
+      "fixme": "Position estimated",
+      "name": "00",
+      "ref:vatin": "IT11002340151",
+      "shop": "bakery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2633518995,
+    "lat": 45.4558087,
+    "lon": 9.1736804,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2633518996,
+    "lat": 45.4557021,
+    "lon": 9.1735356,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2633518997,
+    "lat": 45.4554604,
+    "lon": 9.1731201,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2633518998,
+    "lat": 45.4561674,
+    "lon": 9.1726296,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2633518999,
+    "lat": 45.4557213,
+    "lon": 9.1733241,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2633519000,
+    "lat": 45.4559687,
+    "lon": 9.1734687,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2633519001,
+    "lat": 45.4559508,
+    "lon": 9.1736581,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2633519002,
+    "lat": 45.4558478,
+    "lon": 9.1732898,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2635937295,
+    "lat": 45.4542354,
+    "lon": 9.1775968,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2635937303,
+    "lat": 45.4543659,
+    "lon": 9.177745,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2635937306,
+    "lat": 45.4542488,
+    "lon": 9.1777557,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2635937789,
+    "lat": 45.4550035,
+    "lon": 9.1766033,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2635937790,
+    "lat": 45.4548762,
+    "lon": 9.1766055,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2635937791,
+    "lat": 45.4543555,
+    "lon": 9.1775476,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666661005,
+    "lat": 45.4517433,
+    "lon": 9.1799896,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:street": "Corso San Gottardo",
+      "entrance": "yea"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666661006,
+    "lat": 45.4516203,
+    "lon": 9.1799291,
+    "tags": {
+      "amenity": "bank",
+      "name": "BPM"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666661008,
+    "lat": 45.4518009,
+    "lon": 9.1799588,
+    "tags": {
+      "name": "Aleardi",
+      "shop": "optician"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666669313,
+    "lat": 45.4518391,
+    "lon": 9.1793271,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "japanese",
+      "name": "Kaneda"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666690056,
+    "lat": 45.4518521,
+    "lon": 9.1790661,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666699621,
+    "lat": 45.4511463,
+    "lon": 9.1787596,
+    "tags": {
+      "barrier": "bollard"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666706275,
+    "lat": 45.4515705,
+    "lon": 9.179974,
+    "tags": {
+      "barrier": "gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666706536,
+    "lat": 45.4515929,
+    "lon": 9.1792153,
+    "tags": {
+      "barrier": "gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666713597,
+    "lat": 45.4511547,
+    "lon": 9.1799266,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:postcode": "20136",
+      "addr:street": "Corso San Gottardo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666714296,
+    "lat": 45.4513595,
+    "lon": 9.1799521,
+    "tags": {
+      "entrance": "main"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666800638,
+    "lat": 45.4517498,
+    "lon": 9.1811064,
+    "tags": {
+      "amenity": "parking_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666810638,
+    "lat": 45.4524886,
+    "lon": 9.1811623,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "7",
+      "addr:postcode": "20156",
+      "addr:street": "Piazza Ventiquattro Maggio",
+      "entrance": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2666810639,
+    "lat": 45.4526049,
+    "lon": 9.1812513,
+    "tags": {
+      "amenity": "bank",
+      "atm": "yes",
+      "name": "UBI Banco di Brescia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2675690260,
+    "lat": 45.4529492,
+    "lon": 9.1800003,
+    "tags": {
+      "amenity": "post_box"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2707542555,
+    "lat": 45.4550151,
+    "lon": 9.1782579,
+    "tags": {
+      "barrier": "lift_gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2707542559,
+    "lat": 45.4550228,
+    "lon": 9.1782915,
+    "tags": {
+      "traffic_calming": "table"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2707542562,
+    "lat": 45.4549343,
+    "lon": 9.1780168,
+    "tags": {
+      "access": "permissive",
+      "amenity": "parking_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2707554611,
+    "lat": 45.454316,
+    "lon": 9.1796147,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Via Scaldasole",
+      "barrier": "gate",
+      "entrance": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2736458519,
+    "lat": 45.4528251,
+    "lon": 9.1804948,
+    "tags": {
+      "amenity": "bar",
+      "cuisine": "italian",
+      "name": "LeTrottoir",
+      "opening_hours": "Mo-Su 11:00-05:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2737781753,
+    "lat": 45.4524338,
+    "lon": 9.1788073,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2737799535,
+    "lat": 45.4523454,
+    "lon": 9.1781546,
+    "tags": {
+      "amenity": "taxi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2737799542,
+    "lat": 45.4518666,
+    "lon": 9.1789369,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2737805962,
+    "lat": 45.4518089,
+    "lon": 9.1790819,
+    "tags": {
+      "barrier": "lift_gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913909,
+    "lat": 45.4521007,
+    "lon": 9.1753946,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Al Coniglio Bianco"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913919,
+    "lat": 45.4517684,
+    "lon": 9.1739966,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "L'Altro Luca e Andrea"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913920,
+    "lat": 45.4521255,
+    "lon": 9.175853,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "8",
+      "addr:postcode": "20144",
+      "addr:street": "Alzaia Naviglio Grande",
+      "email": "info@hotelmaisonborella.com",
+      "fax": "+39 02 58109114",
+      "name": "Maison Borella",
+      "phone": "+39 02 58109114",
+      "stars": "4",
+      "tourism": "hotel",
+      "website": "http://www.hotelmaisonborella.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913925,
+    "lat": 45.4519406,
+    "lon": 9.1764145,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Pizzeria Tradziomale Trattoria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913926,
+    "lat": 45.4521436,
+    "lon": 9.1759208,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Posto di Conversazione"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913927,
+    "lat": 45.4522709,
+    "lon": 9.1764861,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Premiata Pizzeria di Vincenzo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913928,
+    "lat": 45.4520083,
+    "lon": 9.1766761,
+    "tags": {
+      "addr:housenumber": "5",
+      "addr:street": "Ripa di Porta Ticinese",
+      "amenity": "bar",
+      "name": "Ringhiera Café"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913931,
+    "lat": 45.4519218,
+    "lon": 9.1763161,
+    "tags": {
+      "amenity": "bar",
+      "name": "Sofa Café Welcome Home Milano"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913932,
+    "lat": 45.4517852,
+    "lon": 9.1756591,
+    "tags": {
+      "addr:housenumber": "19",
+      "addr:street": "Ripa di Porta Ticinese",
+      "amenity": "bar",
+      "comment:it": "sedel legale in via Caldara 15 (Milano)",
+      "comment:it:2": "su scontrino riportato indirizzo web www.straripabar.org, ma non funziona",
+      "contact:phone": "+39 02 58118146",
+      "name": "Straripa Bar",
+      "operator": "Straripanta s.r.l.",
+      "ref:vatin": "IT06150650965"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913934,
+    "lat": 45.4518421,
+    "lon": 9.1759217,
+    "tags": {
+      "amenity": "bar",
+      "name": "Twist on Classic"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2774913935,
+    "lat": 45.4515608,
+    "lon": 9.1744979,
+    "tags": {
+      "addr:housenumber": "33",
+      "addr:street": "Ripa di Porta Ticinese",
+      "amenity": "pharmacy",
+      "dispensing": "no",
+      "name": "Farmacia Tarantino",
+      "ref:vatin": "IT02061270167"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2782986341,
+    "lat": 45.4553349,
+    "lon": 9.1735318,
+    "tags": {
+      "amenity": "drinking_water"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2782986343,
+    "lat": 45.4553368,
+    "lon": 9.1737357,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2782986346,
+    "lat": 45.4551542,
+    "lon": 9.1738164,
+    "tags": {
+      "leisure": "playground"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2782991477,
+    "lat": 45.4555158,
+    "lon": 9.173327,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Al Porto"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2791482173,
+    "lat": 45.452668,
+    "lon": 9.1816408,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "covered": "no",
+      "highway": "bus_stop",
+      "name": "Galeazzo - 24 Maggio",
+      "public_transport": "platform",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2791482179,
+    "lat": 45.4527027,
+    "lon": 9.1816486,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "covered": "no",
+      "fixme": "Position estimated",
+      "name": "Galeazzo - 24 Maggio",
+      "public_transport": "stop_position",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2791482224,
+    "lat": 45.4549189,
+    "lon": 9.1722164,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "covered": "no",
+      "highway": "bus_stop",
+      "name": "Corso Colombo - Piazzale Cantore",
+      "passenger_information_display": "no",
+      "public_transport": "platform",
+      "ref": "11193",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2818603478,
+    "lat": 45.455058,
+    "lon": 9.1725445,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2820238007,
+    "lat": 45.4558507,
+    "lon": 9.1774379,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2845994174,
+    "lat": 45.4511621,
+    "lon": 9.1765214,
+    "tags": {
+      "name": "Navigli",
+      "place": "neighbourhood"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2937713089,
+    "lat": 45.4516957,
+    "lon": 9.1736935,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942333912,
+    "lat": 45.4551187,
+    "lon": 9.1726844,
+    "tags": {
+      "amenity": "bank",
+      "atm": "yes",
+      "name": "Unicredit"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942352017,
+    "lat": 45.4549014,
+    "lon": 9.1733885,
+    "tags": {
+      "addr:housenumber": "1",
+      "addr:postcode": "20144",
+      "addr:street": "Via Giuseppe Codara"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942352020,
+    "lat": 45.455864,
+    "lon": 9.1723348,
+    "tags": {
+      "amenity": "parking_entrance"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942352032,
+    "lat": 45.4555986,
+    "lon": 9.1719698,
+    "tags": {
+      "amenity": "bank",
+      "atm": "yes",
+      "name": "UBI Banca Popolare Commercio&Industria"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942352033,
+    "lat": 45.4553201,
+    "lon": 9.1724633,
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:street": "Piazzale Antonio Cantore",
+      "contact:phone": "+39 02 58104385",
+      "name": "Coin",
+      "opening_hours": "Mo-Fr 10:00-19:30; Sa 10:00-20:00; Su 10:00-19:30",
+      "operator": "Gruppo Coin spa",
+      "ref:vatin": "IT04850790967",
+      "shop": "department_store"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942354769,
+    "lat": 45.4541584,
+    "lon": 9.1761362,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942354770,
+    "lat": 45.4542217,
+    "lon": 9.1760462,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942354771,
+    "lat": 45.4549805,
+    "lon": 9.1767568,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942354772,
+    "lat": 45.4543457,
+    "lon": 9.1758333,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942354773,
+    "lat": 45.4543638,
+    "lon": 9.1758595,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2942357664,
+    "lat": 45.4543436,
+    "lon": 9.1791444,
+    "tags": {
+      "shop": "bakery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2973021555,
+    "lat": 45.4522132,
+    "lon": 9.1762149,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "4",
+      "addr:postcode": "20144",
+      "addr:street": "Alzaia Naviglio Grande",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2973021556,
+    "lat": 45.4521806,
+    "lon": 9.1760505,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:country": "IT",
+      "addr:housenumber": "6",
+      "addr:postcode": "20144",
+      "addr:street": "Alzaia Naviglio Grande",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3016472373,
+    "lat": 45.4549415,
+    "lon": 9.1721771,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "covered": "no",
+      "name": "Corso Colombo - Piazzale Cantore",
+      "passenger_information_display": "no",
+      "public_transport": "stop_position",
+      "ref": "11193",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3016472375,
+    "lat": 45.4559568,
+    "lon": 9.1727181,
+    "tags": {
+      "bench": "yes",
+      "bus": "yes",
+      "name": "Piazzale Cantore",
+      "passenger_information_display": "yes",
+      "public_transport": "stop_position",
+      "ref": "11197",
+      "shelter": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3016719410,
+    "lat": 45.4557819,
+    "lon": 9.173602,
+    "tags": {
+      "comment:it": "Obbligo di andare dritto eccetto mezzi ATM",
+      "traffic_sign": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3054568426,
+    "lat": 45.4523714,
+    "lon": 9.1792625,
+    "tags": {
+      "bench": "yes",
+      "name": "Piazza 24 Maggio",
+      "passenger_information_display": "yes",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11444",
+      "shelter": "yes",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3054612839,
+    "lat": 45.4520215,
+    "lon": 9.1801311,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3133041037,
+    "lat": 45.4552348,
+    "lon": 9.1724578,
+    "tags": {
+      "entrance": "yes",
+      "name": "Coin"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3133041038,
+    "lat": 45.4554948,
+    "lon": 9.1728277,
+    "tags": {
+      "entrance": "yes",
+      "name": "Coin"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163045050,
+    "lat": 45.4520907,
+    "lon": 9.1800219,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163045054,
+    "lat": 45.4521004,
+    "lon": 9.1802542,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163047166,
+    "lat": 45.4521305,
+    "lon": 9.1794589,
+    "tags": {
+      "amenity": "bicycle_parking"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163047173,
+    "lat": 45.4521394,
+    "lon": 9.1793222,
+    "tags": {
+      "amenity": "drinking_water"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163047189,
+    "lat": 45.4521915,
+    "lon": 9.1791939,
+    "tags": {
+      "denotation": "landmark",
+      "leaf_type": "broadleaved",
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163047203,
+    "lat": 45.4522465,
+    "lon": 9.1791483,
+    "tags": {
+      "denotation": "landmark",
+      "leaf_type": "broadleaved",
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163063553,
+    "lat": 45.4522762,
+    "lon": 9.1807091,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163093560,
+    "lat": 45.451974,
+    "lon": 9.1794927,
+    "tags": {
+      "bench": "no",
+      "covered": "yes",
+      "fixme": "Position estimated",
+      "name": "Piazza 24 Maggio",
+      "passenger_information_display": "no",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163094362,
+    "lat": 45.4520859,
+    "lon": 9.1797683,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163094364,
+    "lat": 45.4520946,
+    "lon": 9.1801411,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163094375,
+    "lat": 45.4520169,
+    "lon": 9.1795747,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163094377,
+    "lat": 45.452382,
+    "lon": 9.1790695,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163100257,
+    "lat": 45.452153,
+    "lon": 9.1810737,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163100260,
+    "lat": 45.4522523,
+    "lon": 9.181038,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163103163,
+    "lat": 45.4521673,
+    "lon": 9.1809125,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163183227,
+    "lat": 45.4520272,
+    "lon": 9.1802517,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163183231,
+    "lat": 45.4524468,
+    "lon": 9.1789537,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3163183234,
+    "lat": 45.4520212,
+    "lon": 9.1800098,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3188691739,
+    "lat": 45.4490246,
+    "lon": 9.1762839,
+    "tags": {
+      "addr:housenumber": "12",
+      "addr:postcode": "20143",
+      "addr:street": "Via Emilio Gola",
+      "alt_name": "Nibida Theatre Live Music",
+      "amenity": "pub",
+      "contact:phone": "+39 339 3477512",
+      "contact:website": "http://www.nidaba.it/",
+      "fixme": "Position estimated",
+      "name": "Nibida Theatre",
+      "ref:vatin": "IT11464280152"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3219338383,
+    "lat": 45.4536163,
+    "lon": 9.1802805,
+    "tags": {
+      "addr:housenumber": "100",
+      "addr:street": "Corso di Porta Ticinese"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3219338384,
+    "lat": 45.454207,
+    "lon": 9.1799294,
+    "tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3219338385,
+    "lat": 45.4536294,
+    "lon": 9.1802727,
+    "tags": {
+      "amenity": "cafe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3219338405,
+    "lat": 45.4549934,
+    "lon": 9.1774057,
+    "tags": {
+      "amenity": "drinking_water"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3228041537,
+    "lat": 45.452366,
+    "lon": 9.176604,
+    "tags": {
+      "addr:housenumber": "30",
+      "addr:postcode": "20144",
+      "addr:street": "Viale Gorizia",
+      "amenity": "restaurant",
+      "contact:fax": "+39 02 8357670",
+      "contact:mail": "loremipsum@gmail.com",
+      "contact:phone": "+39 02 8357670",
+      "cuisine": "regional",
+      "name": "Trattoria Milanese",
+      "website": "http://trattoriamilanese.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3308345145,
+    "lat": 45.4531641,
+    "lon": 9.1798338,
+    "tags": {
+      "addr:housenumber": "4",
+      "addr:street": "Piazza Ventiquattro Maggio",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3308345146,
+    "lat": 45.4518778,
+    "lon": 9.1760629,
+    "tags": {
+      "amenity": "bar",
+      "name": "I Mas!"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3308345147,
+    "lat": 45.4518583,
+    "lon": 9.1759832,
+    "tags": {
+      "amenity": "bar",
+      "name": "Manhattan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3308345148,
+    "lat": 45.4531635,
+    "lon": 9.1799213,
+    "tags": {
+      "amenity": "restaurant",
+      "fixme": "Position estimated",
+      "name": "Ricette tricolori"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3308345157,
+    "lat": 45.4518972,
+    "lon": 9.1761582,
+    "tags": {
+      "note:it": "probabilmente qui ingresso con numero civico"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3308345158,
+    "lat": 45.4527034,
+    "lon": 9.1783463,
+    "tags": {
+      "amenity": "telephone",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3352015794,
+    "lat": 45.4515524,
+    "lon": 9.1744412,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "italian",
+      "name": "I Pesciolini"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3352015795,
+    "lat": 45.4518378,
+    "lon": 9.1743583,
+    "tags": {
+      "amenity": "clock",
+      "display": "analog",
+      "support": "wall_mounted",
+      "visibility": "street"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3365924908,
+    "lat": 45.4519974,
+    "lon": 9.1751922,
+    "tags": {
+      "contact:email": "info@meet2biz.com",
+      "contact:phone": "+39 339 7962395",
+      "contact:website": "http://www.meet2bizshop.com/",
+      "name": "Meet2Biz",
+      "shop": "clothes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3399748297,
+    "lat": 45.4559368,
+    "lon": 9.1752451,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3399748301,
+    "lat": 45.456119,
+    "lon": 9.1736947,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3399748302,
+    "lat": 45.4559579,
+    "lon": 9.1751349,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3399748306,
+    "lat": 45.4560301,
+    "lon": 9.1751098,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3399748308,
+    "lat": 45.4559647,
+    "lon": 9.1739046,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3403647428,
+    "lat": 45.4531291,
+    "lon": 9.1802886,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3429335805,
+    "lat": 45.455859,
+    "lon": 9.1729171,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "comment:it": "Fermata capolina della linea 74.copertura, shelter, panchina (bench), e display con informazioni su tempo di attesa fornite dalla vicina fermata di capolinea della linea 47",
+      "covered": "no",
+      "highway": "bus_stop",
+      "name": "Piazzale Cantore",
+      "passenger_information_display": "no",
+      "public_transport": "platform",
+      "ref": "11196",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3429335806,
+    "lat": 45.4558903,
+    "lon": 9.1729296,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "comment:it": "Fermata capolina della linea 74.copertura, shelter, panchina (bench), e display con informazioni su tempo di attesa fornite dalla vicina fermata di capolinea della linea 47",
+      "covered": "no",
+      "name": "Piazzale Cantore",
+      "passenger_information_display": "no",
+      "public_transport": "stop_position",
+      "ref": "11196",
+      "shelter": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3439388536,
+    "lat": 45.4522378,
+    "lon": 9.1795038,
+    "tags": {
+      "amenity": "bicycle_rental"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3455552263,
+    "lat": 45.4529908,
+    "lon": 9.1802611,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3455552269,
+    "lat": 45.4529998,
+    "lon": 9.1801656,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3455552274,
+    "lat": 45.4528238,
+    "lon": 9.1810186,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3455552275,
+    "lat": 45.4530579,
+    "lon": 9.1802744,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3455552278,
+    "lat": 45.4530683,
+    "lon": 9.1801758,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3457844168,
+    "lat": 45.4521251,
+    "lon": 9.1807253,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3457860300,
+    "lat": 45.4527883,
+    "lon": 9.1806851,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3458327585,
+    "lat": 45.4531453,
+    "lon": 9.1729207,
+    "tags": {
+      "addr:housenumber": "18",
+      "addr:street": "Via Vigevano",
+      "fixme": "Position Estimated",
+      "name": "Ikea Temporary",
+      "official_name": "Ikea",
+      "operator": "Ikea Italia retail srl temporary",
+      "ref:vatin": "IT02992760963",
+      "shop": "furniture"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467590518,
+    "lat": 45.4525886,
+    "lon": 9.180707,
+    "tags": {
+      "amenity": "taxi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467799165,
+    "lat": 45.4526429,
+    "lon": 9.1798939,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467799166,
+    "lat": 45.4526332,
+    "lon": 9.1799888,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467799167,
+    "lat": 45.4526916,
+    "lon": 9.1798976,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467799168,
+    "lat": 45.4527322,
+    "lon": 9.1800039,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467799169,
+    "lat": 45.4526802,
+    "lon": 9.1799968,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467799170,
+    "lat": 45.4527821,
+    "lon": 9.179171,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467799172,
+    "lat": 45.4527417,
+    "lon": 9.1799059,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467804418,
+    "lat": 45.4524998,
+    "lon": 9.1798657,
+    "tags": {
+      "amenity": "bicycle_parking"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3467804421,
+    "lat": 45.4521564,
+    "lon": 9.1794191,
+    "tags": {
+      "shop": "kiosk"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3469720974,
+    "lat": 45.4560151,
+    "lon": 9.1752197,
+    "tags": {
+      "highway": "stop"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3469720977,
+    "lat": 45.4547364,
+    "lon": 9.1768186,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3469720978,
+    "lat": 45.4542709,
+    "lon": 9.1777079,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3469720983,
+    "lat": 45.4547324,
+    "lon": 9.1769896,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3478862634,
+    "lat": 45.4549529,
+    "lon": 9.172299,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3478862641,
+    "lat": 45.4547273,
+    "lon": 9.1732332,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3478862642,
+    "lat": 45.4551319,
+    "lon": 9.1721825,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3478862645,
+    "lat": 45.4557152,
+    "lon": 9.1730066,
+    "tags": {
+      "name": "7Camicie",
+      "shop": "clothes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3478946701,
+    "lat": 45.4549367,
+    "lon": 9.1749881,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3478946744,
+    "lat": 45.4564286,
+    "lon": 9.1728985,
+    "tags": {
+      "highway": "give_way"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3478946761,
+    "lat": 45.4549556,
+    "lon": 9.1750161,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3481134062,
+    "lat": 45.4527837,
+    "lon": 9.1745511,
+    "tags": {
+      "fixme": "Position estimated",
+      "name": "eleven",
+      "shop": "clothes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3481134063,
+    "lat": 45.4528022,
+    "lon": 9.1743297,
+    "tags": {
+      "amenity": "ice_cream",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3481134066,
+    "lat": 45.4530102,
+    "lon": 9.1748871,
+    "tags": {
+      "amenity": "ice_cream",
+      "fixme": "Position estimated"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3493409545,
+    "lat": 45.4523754,
+    "lon": 9.1796773,
+    "tags": {
+      "bench": "yes",
+      "name": "Piazza 24 Maggio",
+      "passenger_information_display": "yes",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11447",
+      "shelter": "yes",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499836167,
+    "lat": 45.4530016,
+    "lon": 9.1734859,
+    "tags": {
+      "bench": "no",
+      "bus": "yes",
+      "highway": "bus_stop",
+      "name": "Via Vigevano - Via Corsico",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11190",
+      "shelter": "no",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858735,
+    "lat": 45.4523658,
+    "lon": 9.1793442,
+    "tags": {
+      "bench": "yes",
+      "name": "Piazza 24 Maggio",
+      "passenger_information_display": "yes",
+      "public_transport": "stop_position",
+      "railway": "tram_stop",
+      "ref": "11444",
+      "shelter": "yes",
+      "tram": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858736,
+    "lat": 45.4522938,
+    "lon": 9.1799198,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858737,
+    "lat": 45.4523084,
+    "lon": 9.179841,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858738,
+    "lat": 45.4523182,
+    "lon": 9.1799247,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858739,
+    "lat": 45.4523223,
+    "lon": 9.179926,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858740,
+    "lat": 45.452329,
+    "lon": 9.1798462,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858741,
+    "lat": 45.4523328,
+    "lon": 9.1799288,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858742,
+    "lat": 45.4523429,
+    "lon": 9.1799306,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858743,
+    "lat": 45.4523492,
+    "lon": 9.1798527,
+    "tags": {
+      "highway": "traffic_signals"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858744,
+    "lat": 45.4523511,
+    "lon": 9.1799316,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858745,
+    "lat": 45.4523559,
+    "lon": 9.1799318,
+    "tags": {
+      "crossing": "traffic_signals",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858746,
+    "lat": 45.452378,
+    "lon": 9.1799319,
+    "tags": {
+      "crossing": "traffic_signals",
+      "fixme": "qui c'è una pista ciclabile",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3499858748,
+    "lat": 45.4524044,
+    "lon": 9.1796671,
+    "tags": {
+      "crossing": "traffic_signals",
+      "fixme": "qui c'è una pista ciclabile",
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3510152533,
+    "lat": 45.4522371,
+    "lon": 9.1770813,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3517373941,
+    "lat": 45.4526333,
+    "lon": 9.1805493,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3517373942,
+    "lat": 45.4525928,
+    "lon": 9.1804407,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3517373943,
+    "lat": 45.4526859,
+    "lon": 9.1805587,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3517373944,
+    "lat": 45.4526408,
+    "lon": 9.1804487,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3517373945,
+    "lat": 45.4525834,
+    "lon": 9.1805426,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3517373946,
+    "lat": 45.4526953,
+    "lon": 9.1804594,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3541224324,
+    "lat": 45.4527485,
+    "lon": 9.1816425,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3541224327,
+    "lat": 45.4527728,
+    "lon": 9.1813791,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3575074100,
+    "lat": 45.4520747,
+    "lon": 9.1845994,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3610671637,
+    "lat": 45.4489601,
+    "lon": 9.1752168,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3621904640,
+    "lat": 45.4560029,
+    "lon": 9.1732674,
+    "tags": {
+      "amenity": "vending_machine"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3629244146,
+    "lat": 45.4527937,
+    "lon": 9.1747937,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "11",
+      "addr:postcode": "20121",
+      "addr:street": "Via Vigevano",
+      "name": "BAO Boutique",
+      "shop": "books"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3889654212,
+    "lat": 45.4553307,
+    "lon": 9.1766347,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3889654213,
+    "lat": 45.455549,
+    "lon": 9.1767441,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3889654457,
+    "lat": 45.455508,
+    "lon": 9.1768441,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4049918599,
+    "lat": 45.4496656,
+    "lon": 9.1777369,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "21",
+      "addr:postcode": "20136",
+      "addr:street": "Via Ascanio Sforza",
+      "amenity": "bar",
+      "contact:facebook": "https://www.facebook.com/GingerCocktailLabNavigli",
+      "contact:phone": "+39 335 569 0779",
+      "contact:tripadvisor": "https://www.tripadvisor.it/Attraction_Review-g187849-d4738943-Reviews-Ginger_Cocktail_Lab-Milan_Lombardy.html",
+      "contact:yelp": "http://www.yelp.com/biz/ginger-cocktail-lab-milano",
+      "fixme": "not sure about Happy Hour tag",
+      "happy_hours": "Tu-Su 18:30-03:00",
+      "name": "Ginger Cocktail Lab",
+      "opening_hours": "Tu-Su 18:30-03:00",
+      "operator": "Andrea Pinto",
+      "ref:vatin": "IT01410520082",
+      "smoking": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4060101731,
+    "lat": 45.4519967,
+    "lon": 9.184483,
+    "tags": {
+      "highway": "crossing"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4095089520,
+    "lat": 45.4521649,
+    "lon": 9.1774327,
+    "tags": {
+      "amenity": "post_box",
+      "operator": "Poste Italiane"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4181254200,
+    "lat": 45.4511221,
+    "lon": 9.1767829,
+    "tags": {
+      "addr:city": "Milano",
+      "addr:housenumber": "12",
+      "addr:postcode": "20143",
+      "addr:street": "Via Magolfa",
+      "name": "Architetto Giancarlo Giusteschi",
+      "office": "architect",
+      "payment:bitcoin": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4189028839,
+    "lat": 45.4521619,
+    "lon": 9.1775897,
+    "tags": {
+      "addr:housenumber": "2",
+      "addr:postcode": "20123",
+      "addr:street": "Alzaia Naviglio Pavese",
+      "amenity": "fast_food",
+      "name": "A' Vucciria",
+      "operator": "The Godfather s.a.s.",
+      "ref:vatin": "IT08182200157",
+      "takeaway": "only",
+      "website": "http://a-vucciria.it"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4269461709,
+    "lat": 45.4516415,
+    "lon": 9.1750306,
+    "tags": {
+      "addr:housenumber": "27",
+      "addr:street": "Ripa di Porta Ticinese",
+      "contact:website": "http://www.empana.it",
+      "fixme": "Position estimated",
+      "name": "Empanadas Argentinas",
+      "operator": "Empanadas Argentinas srl",
+      "ref:vatin": "IT09057090962"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4294302831,
+    "lat": 45.4517257,
+    "lon": 9.1737763,
+    "tags": {
+      "name": "Il Libraccio",
+      "shop": "books"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318362185,
+    "lat": 45.4516277,
+    "lon": 9.1777122,
+    "tags": {
+      "name": "North Shore Milano",
+      "shop": "department_store"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318362186,
+    "lat": 45.4515562,
+    "lon": 9.1777203,
+    "tags": {
+      "amenity": "bar",
+      "name": "Sphera Locura"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318362188,
+    "lat": 45.4517029,
+    "lon": 9.1776935,
+    "tags": {
+      "amenity": "fast_food",
+      "name": "Istanbul Turkish kebab"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318366089,
+    "lat": 45.4517593,
+    "lon": 9.1776747,
+    "tags": {
+      "name": "il negozietto del gelato",
+      "shop": "ice_cream"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318366090,
+    "lat": 45.4514922,
+    "lon": 9.1777203,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Il Pomodorino"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318366094,
+    "lat": 45.4520095,
+    "lon": 9.1776586,
+    "tags": {
+      "amenity": "bar",
+      "name": "Ego"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4318366096,
+    "lat": 45.4519306,
+    "lon": 9.1776586,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Luna Rossa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4326495895,
+    "lat": 45.4530037,
+    "lon": 9.1750749,
+    "tags": {
+      "amenity": "restaurant",
+      "name": "Sabbia d'oro",
+      "opening_hours": "Tu-Sa 12:00-15:20, 18:00-02:00; Su-Mo 12:00-02:00"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4332169303,
+    "lat": 45.451576,
+    "lon": 9.1741748,
+    "tags": {
+      "name": "S. Boniforto",
+      "waterway": "weir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4332169304,
+    "lat": 45.4516107,
+    "lon": 9.1743393,
+    "tags": {
+      "name": "Boniforti",
+      "waterway": "weir"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4349007789,
+    "lat": 45.4519402,
+    "lon": 9.1782641,
+    "tags": {
+      "addr:housenumber": "3",
+      "addr:street": "Via Scoglio di Quarto",
+      "amenity": "restaurant",
+      "name": "Frank Pummarola",
+      "phone": "+39 02 832 3810"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4349017321,
+    "lat": 45.4517817,
+    "lon": 9.1780287,
+    "tags": {
+      "addr:street": "Via Scoglio di Quarto",
+      "amenity": "restaurant",
+      "name": "Il Barcone",
+      "note": "Located on a permanently moored boat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4349018494,
+    "lat": 45.4517422,
+    "lon": 9.178251,
+    "tags": {
+      "amenity": "waste_basket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4366230464,
+    "lat": 45.4496382,
+    "lon": 9.17535,
+    "tags": {
+      "barrier": "gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4366230475,
+    "lat": 45.44978,
+    "lon": 9.1773416,
+    "tags": {
+      "barrier": "gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4366230477,
+    "lat": 45.4497865,
+    "lon": 9.175282,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4366230484,
+    "lat": 45.449842,
+    "lon": 9.1752914,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4366230487,
+    "lat": 45.4498514,
+    "lon": 9.1752874,
+    "tags": {
+      "natural": "tree"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4366297595,
+    "lat": 45.4516522,
+    "lon": 9.1776863,
+    "tags": {
+      "name": "il Negozietto del Gelato",
+      "shop": "confectionery"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4388849822,
+    "lat": 45.4518884,
+    "lon": 9.176133,
+    "tags": {
+      "addr:housenumber": "17",
+      "addr:postcode": "20143",
+      "addr:street": "Ripa di Porta Ticinese",
+      "amenity": "bar",
+      "name": "Beynac",
+      "ref:vatin": "IT026699740962"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4394547084,
+    "lat": 45.454647,
+    "lon": 9.1768263,
+    "tags": {
+      "barrier": "bollard"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4394548189,
+    "lat": 45.4546978,
+    "lon": 9.1764574,
+    "tags": {
+      "barrier": "gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4394548195,
+    "lat": 45.4547635,
+    "lon": 9.1767245,
+    "tags": {
+      "barrier": "gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4394548203,
+    "lat": 45.4548552,
+    "lon": 9.1774931,
+    "tags": {
+      "barrier": "gate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4394585852,
+    "lat": 45.4490472,
+    "lon": 9.1799803,
+    "tags": {
+      "name": "OVS",
+      "note": "not sure if this one replaced the upim. Location is approximate here",
+      "shop": "clothes",
+      "source": "survey"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4394587993,
+    "lat": 45.4490059,
+    "lon": 9.1765691,
+    "tags": {
+      "amenity": "restaurant",
+      "cuisine": "peruvian",
+      "name": "Inkanto",
+      "note": "location is approximate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4426224995,
+    "lat": 45.4535374,
+    "lon": 9.1780705,
+    "tags": {
+      "addr:housenumber": "10",
+      "addr:postcode": "20123",
+      "addr:street": "Via Pietro Panzeri",
+      "email": "panzeri@20hours.it",
+      "internet_access": "wlan",
+      "leisure": "fitness_centre",
+      "name": "20 Hours Panzeri",
+      "opening_hours": "Mo-Fr 07:00-20:30; Sa 10:00-20:00; Su 10:00-19:00",
+      "phone": "+39 02 36559189",
+      "website": "http://www.20hours.it/index.php/sedi/milano/club-panzeri"
+    }
+  }
+]
